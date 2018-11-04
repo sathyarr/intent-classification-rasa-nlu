@@ -31,6 +31,6 @@ Use the Jupyter notebook file
 
 The code is tested and results are stored in <b>TestRun</b> folder for Reference
 
-If you are more curious, <a href="https://rasa.com">Check out here</a>
+If you are more curious, <a href="https://rasa.com" target="_blank">Check out here</a>
 
 Cheers!
