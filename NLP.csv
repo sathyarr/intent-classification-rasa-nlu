@@ -1,0 +1,2001 @@
+data,label
+"{'id': 'KG0OUA', 'data': 'Good morning', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'L9DC9H', 'data': 'Location', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'ZQR6R5', 'data': 'hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'RH0M4E', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'WLVX8I', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'M2IRWL', 'data': 'sir', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '5MXRNL', 'data': 'K', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '609W8Y', 'data': 'On thanks', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'T3V6IY', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'GI07N1', 'data': 'Sir I dnt have two wheeler', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'GYJWFS', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '6ZQLO7', 'data': 'Hlo', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '1XYSRQ', 'data': '📷 Good mrng', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'C7747X', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'WU1MHH', 'data': 'Gm', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'AL0YY2', 'data': 'Yes but no bikes sorry', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'NKB41P', 'data': 'Where it is', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'HKWKR6', 'data': 'Job placement company', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'OGBMAM', 'data': 'were', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'J7F5AP', 'data': 'Hiii', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'OAMYVS', 'data': 'No', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'R6Z32R', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'W9VE02', 'data': 'Thank you', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'V952V0', 'data': 'Where is the location?', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '7YXU1E', 'data': 'Nahi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'Z7UF71', 'data': 'Marathi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'GZLTJC', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '2YAC8M', 'data': 'Iska location kya hoga', 'message_order': 2, 'comments': ['']}",location
+"{'id': '8I1GCO', 'data': 'Poda ...', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'MY3Q1J', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'YBEI5V', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",location
+"{'id': '0C9Y5K', 'data': 'K', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'UNWCX4', 'data': 'Ldhu', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'YO8Z66', 'data': 'hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'XWSC3M', 'data': 'I am not interested', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'N84XF2', 'data': 'How r u', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'HTRWUM', 'data': 'Hi..', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'QS76OO', 'data': 'K', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'OW1O0D', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'HKNA96', 'data': 'Hiio', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '8CWG23', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '5ENIE2', 'data': 'Ok thanks 🙏🏻', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'WE94Y2', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '986LDG', 'data': 'Learning licence hai', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'S4914B', 'data': 'Okkk', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'UUNNK7', 'data': 'Bhaiii', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '8H0AIC', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'S5XV4G', 'data': 'Hey', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'J13L6Z', 'data': 'Msg kyu karte hai', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '0FJ0SD', 'data': 'Hi sir', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'PL4IXA', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'L2MVZC', 'data': 'Hi ..', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'N63LPE', 'data': 'How are u', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'Q29W1E', 'data': 'Hi sir', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'B6XAGF', 'data': 'I have learning licence', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '64HXXB', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'SG3868', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '3O1NCP', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'GE2L4N', 'data': '📷 G😊😊D Morning', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'OBMETO', 'data': 'okay', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'Y2G2AI', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '714KZV', 'data': 'k', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'WLAG4Y', 'data': ""Don't msg"", 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'W1IP7Z', 'data': 'I have learning license', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'LK3Z2Z', 'data': 'Lerner license only', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '9QA9O7', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'Y9BH9F', 'data': 'OK bye dear t c good night', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'XWBY4G', 'data': 'Thanks', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'NJRYHH', 'data': 'Which location', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '4UPRAA', 'data': 'ohhhh sry', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'MCR8C2', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'I4QYET', 'data': 'Kidar hai job', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'PTTKK3', 'data': 'Hallo', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'P50QW5', 'data': 'Area', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '1TEYY2', 'data': 'I have LR licence', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'CBHTCZ', 'data': 'Hello Sir / Madam, sorry but I don’t have bike 🏍', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'U237AR', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'YQL2EV', 'data': 'No', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'UXO1AZ', 'data': 'No one', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'L9XNMY', 'data': 'Good morning', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'AIL1VG', 'data': 'Hy', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'YITJGF', 'data': 'Hai good morning', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'TNL84A', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'QNPBDD', 'data': ""Hai I'm kishor"", 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'AX28KL', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'K7VCBE', 'data': 'I applied', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'Y25I5H', 'data': 'Y', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'ID97YE', 'data': 'No', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'Q6UIBB', 'data': 'Kkk', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'IAN3EE', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'VHXZKV', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '6N1P2O', 'data': 'Where should I come', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'IP0Y59', 'data': 'Ledu', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '3ZL96N', 'data': 'I am interested in that job but no bike', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'H378HD', 'data': 'Not interested', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'F92ZYT', 'data': 'Already I have given dis answer before 3days back', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'X4YOO7', 'data': 'How r u', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'BLZNAI', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'EO89PT', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'CJC8R7', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'NCAOB5', 'data': 'Hiii', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'AOXR9G', 'data': 'Haa hai', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '3EQWRT', 'data': 'K', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'GBWW49', 'data': 'inserted no', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'Q3CNYP', 'data': 'Helo', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '0F6INN', 'data': 'Hai', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'LGS2C2', 'data': 'Two wheeler aahe', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'FC5ADO', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'GDHCBH', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'S1MT2F', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'SP2TPW', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'YYGGLH', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'MB7OTA', 'data': 'hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '5KFO2B', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': '6NKGQQ', 'data': 'Hiii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'K3JSO1', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'D5BG34', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'QJGOQM', 'data': 'Kkkkk', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'THBPPW', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '5S2ARJ', 'data': 'Location', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'UNKG6S', 'data': 'K', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'SAP5X2', 'data': 'Good Morning', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'SZ9R07', 'data': 'Driving licence process', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '5AC95I', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'HZRPEH', 'data': 'Location kya hai sir', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'KFVKKX', 'data': 'Haii', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'ZQDUW3', 'data': 'hii', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'PAYXKO', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'YIAGGH', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'SDU5B6', 'data': 'Ll', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '3OKT4Y', 'data': 'No', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '1C33WL', 'data': 'Sorry', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'VS4VEQ', 'data': 'Swiggy nai karna he merko', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'VHZG00', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",location
+"{'id': '3JZ5TP', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'CRJVZ6', 'data': 'G sir', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'Z84STB', 'data': 'Kuthe aahe vacancey', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '7IZQWA', 'data': ""Sry sir now I'm not interested on job"", 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '2RXHW0', 'data': 'No', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'JOJLVL', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'F11U3U', 'data': 'Okok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'D0BZWO', 'data': 'No', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'M3VRPS', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '00KNY3', 'data': 'I have LLR', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'V6D17O', 'data': 'In which area', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': '9F4373', 'data': 'Location kon si rhe gi sir g', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'UONOCC', 'data': 'No', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'SZ4KBY', 'data': 'Where office', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '5WBTTJ', 'data': 'Helo', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'ORC294', 'data': 'Good morning', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'URA4PO', 'data': 'Hi sir', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '78HXUO', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'OO1WHQ', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'S0YZGI', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '62F501', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '1A3DOF', 'data': 'Hiiii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'WEGQMG', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'ZBY4F2', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '5W13ZG', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'FX5SAO', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': '9BMDK8', 'data': 'I have my learning license... Is it OK for job', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '3E2E13', 'data': 'Bt bike nhi aata', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'JZUIOW', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'ZM5418', 'data': ""But I don't have two wheeler"", 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'JWOJ5F', 'data': 'Yas', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'KEXKO5', 'data': 'Gm', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'P8AFFS', 'data': 'Hai', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '9QA8Z7', 'data': 'Dear Sir or Mam', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '1M84I1', 'data': 'Llr', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'NWF6AU', 'data': 'Hey mam', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'QZX0ZY', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'O98DOY', 'data': ""Sorry I didn't have original licence"", 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'V36PYJ', 'data': 'K', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '9O8Z5D', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'ZVGHS2', 'data': 'I had already joined and left the job', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'VOAKOK', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'DGM3W7', 'data': 'Oky', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'X978V6', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'PEAIDO', 'data': 'Telugu Ni aati', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'NB32KE', 'data': 'Get lost', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '2EFXFI', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'DD7QWE', 'data': 'hi', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'V5CE5J', 'data': 'Near banashankari', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '3IES44', 'data': 'I dnt have bike.\n Will u provide??', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '38655E', 'data': 'Hiiii', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'F04F1O', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'I42747', 'data': 'Hi sir', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'I3QDTA', 'data': 'Tq', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'TDVKUY', 'data': 'Ohhh k😁😆😂🤣', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '0MALHX', 'data': 'ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'FQFRWU', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'J39OQ6', 'data': 'Job location', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '4UZKPJ', 'data': 'Kahapar hai job', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'FZZMAZ', 'data': 'No we', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'C8TYHC', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'PPSYG2', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '0UD8C3', 'data': 'Good morning', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'U2RCTA', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '806PEJ', 'data': 'Hlw', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '2EABDW', 'data': ""But i don't have a bike so have can i do this type of jobs"", 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'JXEJTR', 'data': 'Hai good morning', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '5V63MW', 'data': 'LLR license', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'K1NVFN', 'data': 'K k', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'BIJ3QZ', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'HVUA2U', 'data': 'Hai', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'H8550Q', 'data': 'Ekada job', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'I5IU8C', 'data': 'Driving license nai hai but gaadi hai', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'LM5JV1', 'data': '📷 Gdmng', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'LB6GR9', 'data': 'Sry I dnt have a bike to do this job.. Thank you', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '5JZFLX', 'data': 'Kkk', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'WQGK5I', 'data': 'sir bike nahi hai', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '0HUJ05', 'data': 'Thank you', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'F5RHW6', 'data': 'What location', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '8SD3A9', 'data': 'I have a leaning license', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'CEI40A', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '0BC07U', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'AV7R7W', 'data': 'Bhai', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'FL10RD', 'data': 'Okau', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'GJYSVJ', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'G9PWMH', 'data': 'Helloooo', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'TDLURE', 'data': 'Good night', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'JCUEX6', 'data': 'Thanks', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'SMKE5U', 'data': 'I want to my nearest Jalahalli Cross address', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'Q2FG14', 'data': 'Good night', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'MV7OI3', 'data': 'Hi unnati thx for contacting me ..', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'ZIPT00', 'data': 'ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '46N06K', 'data': 'Ok ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'XCRIJW', 'data': 'Where s the office', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'L014TW', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '5I79AF', 'data': 'I applied for license but not yet received', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'ZA2AR7', 'data': 'K', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'CIBIVS', 'data': 'how r u', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'IH326X', 'data': 'बाइक नहीं है', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '6B0G3F', 'data': '😅ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'Z6HKYO', 'data': 'Kk', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'KOQJ9L', 'data': 'you dont have swiggy offic in thane', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'WYZL8Y', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '258WM9', 'data': 'Kahase vai', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'EVEZJ0', 'data': 'Where I have to come for interview', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'RINU9R', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'NAR2RT', 'data': 'Hlo vahna', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '9X46W3', 'data': 'bike ledhu', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '3Q3WEG', 'data': 'K', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'MY1JHR', 'data': 'Suno bhai Meri age nahi hai 17th hya', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'DSF5CU', 'data': 'Okay', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '00W0VD', 'data': 'In which location', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'XVT3O3', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'AXXXEK', 'data': 'I have need job,but I am not apply fees', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'HRAJS5', 'data': 'No licence', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '43V1WZ', 'data': 'Bhi na bike hai na licence hai', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '147F8C', 'data': 'I not interests', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '68ORM2', 'data': 'Sir..which area?', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '1DRD1G', 'data': 'No bike', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'XBTTJO', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'NQ9NJZ', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'Y3WMBB', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'QYR8I7', 'data': 'Why I should deposit???', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'W06SBO', 'data': ""But doesn't have driving license"", 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'T9RLD4', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'JB39Z4', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'JZXY6K', 'data': 'Hello brother', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'PE42AW', 'data': 'hiii', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'URQ329', 'data': 'K........tq so much sar or mam by', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'R6OMM4', 'data': 'Okn', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'EAIXAI', 'data': 'Hai', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'GIJRWR', 'data': 'Hii sit', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '8BTVQU', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'YJ5CM7', 'data': 'I dnt have bike but this job intrested', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'LRRF38', 'data': 'Why should i tell you', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'BVHB5L', 'data': 'i have learning license', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'JBT0CQ', 'data': 'Sorry i m unable to pay 500 rupees', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'BNUW6I', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'CTPYLL', 'data': 'unexpectedly I applied for this job', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'K4C5K3', 'data': ""don't send any text msg"", 'message_order': 5, 'comments': ['']}",location
+"{'id': 'AWI2P0', 'data': 'K', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'ADNKEO', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'IMO9HZ', 'data': 'Near vijaynagar?', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '7PQIXJ', 'data': 'Ur location', 'message_order': 1, 'comments': ['']}",location
+"{'id': '4WWIF0', 'data': 'hello', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'TCMDFQ', 'data': 'But job location', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'NBSW3D', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'LKYJD9', 'data': 'I have learning license', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '94LFUN', 'data': 'Which city', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'EE24ZT', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'WEPQTT', 'data': 'You head office', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '039QO8', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'XYIWKR', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '56S4XN', 'data': 'Whr is your office pls', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '30R80E', 'data': 'Gud mrng', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'C6ZEDT', 'data': 'Ok not interested', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'H38PTG', 'data': ""I have lost my license so I'm making new"", 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'GHHPUZ', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '7TZTAM', 'data': 'Hlo', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'X34EWI', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'YPFW58', 'data': 'K', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'RUG0BB', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '2DZF8P', 'data': 'OK.ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'II9M86', 'data': 'K', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '295WE7', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'P1JH2M', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '3XZDFI', 'data': 'Okey', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'XQ84T5', 'data': 'Which location', 'message_order': 5, 'comments': ['']}",location
+"{'id': '80MSEU', 'data': 'Lr', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '27QL1V', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'O89PMZ', 'data': 'Gud morning', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'B9I333', 'data': 'Which area', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'A4WZES', 'data': 'But mere paas bike nhi hai', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'HYSELH', 'data': 'Llr', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'C286XU', 'data': 'Hello job location akkada', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '1DKKQK', 'data': 'Bhakk', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'PBV1A3', 'data': 'Okay', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '6HB21K', 'data': ""I don't have vehicle sir"", 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'RLXHOU', 'data': 'Sorry', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'YUFNT7', 'data': 'Location were', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'Q70ZHB', 'data': 'Wher', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'G1X3XA', 'data': 'Hello', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'ADWYPN', 'data': 'Dl', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'JS11UL', 'data': 'Snd the location', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'TE2O24', 'data': 'Two wheeler ahe pan license nahi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'B5G4OK', 'data': 'Hello me Peru', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'E3CKAK', 'data': 'ok', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'KRXOTI', 'data': 'No bike', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'T11AS8', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'BK3V7X', 'data': 'hi', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'CVTK5R', 'data': 'Tq', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'KPMR0D', 'data': 'Interview place', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'OLWH4F', 'data': 'Ok thanks sir', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '7QC3FB', 'data': 'Job kaha pr h sir', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'QKBFHM', 'data': 'Address', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'B2OWDA', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'KYUAV4', 'data': 'Gm', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '3V1DNQ', 'data': 'Hiii', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'XFXCJZ', 'data': 'Helo', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'QVNYC2', 'data': 'Okay', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '7J7861', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '2CLA15', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'J5ED7V', 'data': 'I have no bike', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'IJTIDQ', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'DON336', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'Y9UT28', 'data': 'I have no two wheeler', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'MU1ZOI', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'YGNTGJ', 'data': 'yes but where are from', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'M2KEX4', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'W8W0VP', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'EICLS9', 'data': 'Hello how are you', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '4MEDI6', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'EMJ0E8', 'data': 'Location', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'DVWJ17', 'data': 'Mere pass bike nhi hai', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'WHM7QW', 'data': 'Hi ra', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'NTYD0W', 'data': '📷 Good morning everyone.........', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'FPKVL3', 'data': '📷 Good morning', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'SFBDIC', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '4U617C', 'data': 'Better i WL BLK u', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'ATMWBB', 'data': 'मेरे पास बाइक नही है', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '6YMHH4', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'X6YLBO', 'data': 'sir bike nahi hai', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'Y3SH9Y', 'data': 'Nahi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'RY2Y69', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'F8BIDM', 'data': 'Kk', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'Z49Q7G', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '019LLI', 'data': 'Where', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'G51VCB', 'data': ""I don't have vehicles and license also"", 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'QDYWFD', 'data': 'Gd mrng', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'FE9ZD1', 'data': 'K', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'RC97MT', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'TPCLC5', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'NFD0BP', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '4INEVO', 'data': 'Am from thiruvallur where is job Location', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'I99L06', 'data': 'Where is kasturinagar ?', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '5DHOLO', 'data': 'Kidar hey', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'FJTUMK', 'data': 'లేదు', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '5RLRN0', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'KODRH6', 'data': 'Give address', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'S4PNMZ', 'data': 'Tq', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '1JUGLD', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'D3HMHC', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'U1M17Q', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'SHVXFF', 'data': 'learning licence', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'UGVYFH', 'data': 'Dombivli mein hai kya??', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '96RDFQ', 'data': 'Apply chesanu', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '8S0MYG', 'data': 'Bat were', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'X3I8HU', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '94A1HG', 'data': 'Good Morning', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': '84TDV4', 'data': 'Okay', 'message_order': 0, 'comments': ['']}",location
+"{'id': '2VZZEY', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'Q90QFX', 'data': 'Bhai apka location kidar hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '6GX8LN', 'data': 'IAM not interested', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'NI60LW', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'R7CWTM', 'data': 'Hiii sir', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'K2UGS5', 'data': 'Were is the place', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'CJWDDY', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'NDXHZ1', 'data': ""I don't have bike"", 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'S1EEUU', 'data': 'OK sir', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'XLBUPK', 'data': 'I dot have licence', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'DRF99K', 'data': 'Learning license', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'KAAS3I', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'WLPI8T', 'data': 'Na Ku bike', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'EA6E53', 'data': 'Ok ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '7MF3FX', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'MJS835', 'data': 'K', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'MQ0JKV', 'data': 'Sir', 'message_order': 3, 'comments': ['']}",location
+"{'id': '514VIE', 'data': 'Nhi karna h', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'J5BXES', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'DFUSH5', 'data': 'Bike nhi hai', 'message_order': 0, 'comments': ['']}",location
+"{'id': '6J12XY', 'data': ""But I'm below 18"", 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '02ZUBP', 'data': 'ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'MVRFXJ', 'data': 'Mere paas filhaal driving licence ka paavti hai', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'NG6FJV', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'BX2FJ9', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'Q6XN90', 'data': 'Good night', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '23FHY0', 'data': 'hi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '2B70RI', 'data': 'Ol', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '3MAL6L', 'data': 'Hlo', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'F7GLVM', 'data': 'Where!?', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'PKC1CH', 'data': 'Gn', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'N3I54Z', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'WBGB3U', 'data': 'Whr in job', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'YDBVH9', 'data': 'Kk thank you', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'TXSKIG', 'data': 'Hold on', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'G1TSEX', 'data': 'Where is office address', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'PFD6U8', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '0QY7MT', 'data': 'Which area', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'W7ZV7N', 'data': 'Hai', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'ETZ53I', 'data': 'Where', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '9IWM97', 'data': 'No', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'PJMCUJ', 'data': 'Ok sir', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '6HQ1YT', 'data': ""inshallah i we'll come"", 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'OJU2S1', 'data': 'Okay', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'GOZ8X4', 'data': 'Hello', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'UGTC13', 'data': 'Bike Nahi hai.', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'UMDN3T', 'data': 'I m under 18', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'MW5HRF', 'data': 'Not interested', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'N1ND0Y', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'Y7IXQ5', 'data': 'K', 'message_order': 4, 'comments': ['']}",location
+"{'id': '2D92ZZ', 'data': 'Location', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'WNS621', 'data': 'Kk lev it', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '3Q7TU2', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'C4J6T1', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'LI5X6H', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'GMZTUL', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '6W0UNT', 'data': 'Where..?', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'Q81XR1', 'data': 'Assalatu khairu minanum', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '57KTTN', 'data': 'Learning', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'JOYSXL', 'data': 'Yes but i am no money', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'MRSG6E', 'data': 'ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'QPAOFT', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'MCGB4N', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'UNZAL6', 'data': 'Sir can u say me were tht office', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'Q56QQT', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'FP1W6R', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'US5NIH', 'data': 'Ledhuu', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'CCMJRX', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'XA23CA', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '665MN2', 'data': 'Mere paas bike nhi hai', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'K4FFH0', 'data': 'Sorry but muze bike chalana nhi aata', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '263DIM', 'data': 'Hiiii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'IT4J2T', 'data': 'hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'UK5ZAY', 'data': 'Where kasthuri nagar come', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'K0EAZN', 'data': 'Ledhu,but teeeskuntanu', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '0987UV', 'data': 'Halo', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'R9EL35', 'data': 'Im present busy', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '6V6RTZ', 'data': 'Llr', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'IRDHVO', 'data': 'Thanks', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'KALEVH', 'data': 'No', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'RN1JLA', 'data': 'Sir I need job in near by rajajinagar, is there any delivery boy jobs', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'UG8A8J', 'data': 'hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'GPDKNB', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'S48P1L', 'data': 'Where is the location', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '2I109P', 'data': 'Wher', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'GT9CV4', 'data': 'Okk', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '1TDN99', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'K5YSZY', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'KNIZBF', 'data': 'I have LL', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'KKGWTF', 'data': 'Thanks for the information', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'GFESJW', 'data': 'Bro', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'BMUZD5', 'data': 'Hi yari', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'OX5RVG', 'data': 'K', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'MEP4FK', 'data': 'Hlo', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '90VJWM', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'SVYZ24', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'TODM1M', 'data': 'Btw for which location', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'H7A6V2', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'CIBS34', 'data': 'Licnc he but bike nahi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'IN8SYY', 'data': 'Noh', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'TXLUDM', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '646HIG', 'data': 'hii', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '3MWG4F', 'data': 'assalamualaikum', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'WP6ZAX', 'data': 'Office address', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '9O1Z6P', 'data': 'जय महाराष्ट्र', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'PIKWPC', 'data': ""I don't hv bike and license"", 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'DRR952', 'data': 'hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '4WREKB', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'LPU45J', 'data': 'Ok thnx bro', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'J71D7C', 'data': 'K', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '5LI5L1', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'NSDPFU', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'DFNWKA', 'data': '4 welar lagana hy', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'PGUK1L', 'data': 'thank u computer', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'GQ5RNL', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",location
+"{'id': '3VX63W', 'data': 'I have my bicycle', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '14AGSB', 'data': 'Ledhu', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'AA3HTM', 'data': 'But left ago 3months', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'GM8Q28', 'data': 'I need clarity r else they will keep on calling and disturb', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '6P8SF1', 'data': 'Gd night to all', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '7WRB7O', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'NRJDRI', 'data': 'Chal be', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'V2IDT5', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'OU3DB3', 'data': 'I dnt want in swiggy', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'O49IQI', 'data': 'Sir kamm kis state me ha', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'C5BIR0', 'data': 'okkk', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'B1HPEG', 'data': 'No bike', 'message_order': 1, 'comments': ['']}",location
+"{'id': '5X4JY2', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '0Q66BY', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '0XDJY8', 'data': 'Haii', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'JRF117', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'AITHHD', 'data': 'Licence hai', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'EYCCA0', 'data': 'hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'J4MZK8', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'G8JKJ7', 'data': 'Which area and when', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'KZJTWZ', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'VI4ANW', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'HPIQ4H', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'HHP255', 'data': 'Kk', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'D1G7XR', 'data': '📷 Good morning have a nice day 👍👍😎😎', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'ZCOJ42', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'FA4JAV', 'data': 'Bro', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'PWKYFE', 'data': 'Sir job location kaha hai', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '3KZ3ZL', 'data': 'Which is branch', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '8JV6AN', 'data': 'learing i hve', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '41ZRZH', 'data': 'Thanks', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'AY3I7L', 'data': 'Which place sir', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'TNFX1R', 'data': 'Bhai', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'Y49YBD', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'VUP6LR', 'data': 'Drop me the address', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'AS6PSA', 'data': 'Hlo', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'NS940I', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'S3FFPH', 'data': 'Ok sir', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'CE9AZS', 'data': 'K', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'C6IJ95', 'data': 'Whr is your office', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'TMTAB1', 'data': 'Assalaamu alaikum', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '27NXXM', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'L0WHD1', 'data': 'Kaha pr h', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '9AT0W5', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'R8EPY8', 'data': 'Where', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'GA6CGU', 'data': 'Not Sure', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'KNX041', 'data': 'Area', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'IGEYJ8', 'data': 'Sry i dnt have bike', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '6FW94R', 'data': 'Sorry l am not good ride vehicle.', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'LVTKUI', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'KH8Q37', 'data': 'k', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'TQPD14', 'data': 'no', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '9S6X4Y', 'data': 'Sorry', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': '87TUHX', 'data': 'No', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'UH09M8', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '54U7M0', 'data': ""I don't want job"", 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'QFSMMW', 'data': ""Don't send this type of messages to me"", 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'VBCX6H', 'data': 'Hello i have bike license but i Sold my bike can you arrange bike for me', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'OI0M2X', 'data': 'Okay', 'message_order': 5, 'comments': ['']}",location
+"{'id': '0K9Q6O', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'G8P8QZ', 'data': ""Don't have interest"", 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'YDC49M', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '7B3OP0', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'BQJTJO', 'data': 'Which pleas', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'AUQQ5B', 'data': 'Hai...sir', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'D3P2H5', 'data': 'How are you', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'TOHAX6', 'data': 'No money to pay', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'ROHIJM', 'data': 'K', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': '54QUH2', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'UU5HMJ', 'data': 'Kkk', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'RH0VHM', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'NIIVUN', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'Y6VMKM', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'TI9VOC', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'YHEHJD', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '060RTE', 'data': 'Thank you', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'TM5169', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'GVKYYO', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'NU6LNP', 'data': 'Vasai Virar mein hai swiggy delivery boy vacancy', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'HU0BV1', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'PDP4K1', 'data': 'i dont have bike', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '10KQRA', 'data': 'Hiii', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'K9ZXN4', 'data': 'LLR I have', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'TVMZ6T', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'JU5FXN', 'data': ""But I don't have driving licence"", 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '9JFJE6', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",location
+"{'id': '4TAJ23', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'SRK4E8', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'S3NU9C', 'data': ""I don't have a bike"", 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '2MKV1C', 'data': 'Where', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'JADE1A', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'AM0RM7', 'data': 'Which area we will give', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'LPPMTX', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'A95I1W', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'LH64N5', 'data': 'I have ll', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'WGVQZZ', 'data': 'Hi sir', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '4GJ3EH', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'PIXBQ8', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'DB0FQZ', 'data': 'Give office', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'FXYJ4N', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'G898CI', 'data': 'Mere pass bike nahi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'LFP665', 'data': 'Where is the office', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'PNJYTT', 'data': 'లేదు', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'JZ4Q1N', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': '91EU5D', 'data': 'Hii good morning', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'IXXEKP', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '6OKD6T', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '7Z2MZO', 'data': 'Kon banega core pati ka contest hai kya', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'RW16T9', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'K25TVN', 'data': 'I have already done with this job', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'E75P6C', 'data': 'Address', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '1EXM47', 'data': 'Nothing', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'SY79PM', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '5M7K12', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'ECHK4G', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'A76FK7', 'data': 'Good afternoon', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '5UATL0', 'data': 'sry', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'KFBY01', 'data': 'Hello', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'KALDLH', 'data': 'I lose my DL', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'XS0HV4', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'OKW6I3', 'data': '2apply', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '9WHTVP', 'data': 'Gm Chill climate ❄☃', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'TQR3IM', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'PJAV9W', 'data': 'Ye kis jegha h', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'RCNHIC', 'data': ""Salam where it's job"", 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'Q7Q5H2', 'data': 'How are you', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '5372M4', 'data': 'OK I understand', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '9JZJBJ', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'V4ZLXH', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '6J6QZO', 'data': 'sorry', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '9LQZ41', 'data': 'Bike ledhu', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': '0MB3SG', 'data': 'Kkk', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '4Q9AAE', 'data': 'Thank you Unnati ..\n Not now, may be later', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'AJ0WOW', 'data': 'Hai sir', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'G5COII', 'data': 'Where will be tge work', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '7PLMZY', 'data': 'Okya', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'KONMI3', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'T7MMHV', 'data': 'Which place', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'LSOUTN', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'HFPISV', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'PQ9NSC', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'E160FF', 'data': 'Hyy', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'IZ8382', 'data': 'For which place you recruitment', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'P52E0Z', 'data': 'Thanks for your concern.', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '82Z6KY', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'LD1PQU', 'data': 'Hi sir', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '1YDOQM', 'data': 'Please pura address d', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'H3TFCO', 'data': 'Bro', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'VMYNZF', 'data': 'OK', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'DJQD1N', 'data': 'K', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'YG8O8I', 'data': 'Hiii', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'UWB4UD', 'data': 'O sorry no2', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '0C8H0P', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'AXFZS8', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'PQLKV1', 'data': 'Thanks...', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'C72KVP', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '73MOXR', 'data': 'No', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'EPRHVV', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'RD561G', 'data': 'I dnt have bike and dl i knw ridng bike', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '9MY9Z8', 'data': 'Thanks', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'EI3XPU', 'data': 'K', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'V3JP51', 'data': 'Heyyyy', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'GAE7Z8', 'data': 'Oj', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '3OHES1', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '77NHQ0', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'X7EFSW', 'data': 'I have no bike .ie my problem.', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'UWIM1K', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'EMP63J', 'data': 'Sorry not interested', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'S39HPF', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'B6M9AZ', 'data': '😦voke', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '8DN1FE', 'data': 'OK', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'N0WF7O', 'data': 'Good m', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'Y6ILBH', 'data': 'I want online offline system other wise no chance then will be not interested', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'YYMM4F', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'XSK8VA', 'data': 'Gm', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'HSNVK8', 'data': 'Hiii', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'DUH700', 'data': 'hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'PJT1B8', 'data': 'Thanks for your concern MR. Varun.', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'G27K8X', 'data': 'Where', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'TR1R17', 'data': ""brother I don't hav bike and DL also ..."", 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': '9HZECA', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '9MUKS2', 'data': 'Hlo', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '2J4O9P', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'L715UO', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'RCERXE', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '7LO6N6', 'data': 'Hello', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'TFJ48C', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'ZSM7PQ', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'U6A2JI', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '4TRP1N', 'data': 'No thanks', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'IWAYOE', 'data': ""You're making me angry seriously"", 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'SJZI46', 'data': 'ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'TFOHO9', 'data': 'Gm', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '4SSK7W', 'data': 'Would u provide twowheller', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '0A6JR8', 'data': 'Can you tell me the place of Office', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'G0TH5O', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'BKZ1J6', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'EW9UJG', 'data': 'OK', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'PZ9I9Z', 'data': 'Hallo', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'GQ4TYA', 'data': 'Oki bro', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '6EELUO', 'data': 'Yes but i dont have license but i own a vehicle', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'TBKDCH', 'data': 'I got job sir dnt txt me sry', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '0T2YON', 'data': 'Banane diya hi ...mere pass tha ...gum ho gaya hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'S3205O', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '6XRYY3', 'data': 'Learning license available', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': '61K6JL', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'K6IMRL', 'data': 'Bike nhi hu ga tu chil a gaa kya', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'Y2JVFL', 'data': ""Send me u r location.. i'll come there"", 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'WYZEQ2', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'HVWP8Z', 'data': 'Where?', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '52YASS', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '9HOBF2', 'data': 'Land mark?', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'M1GGCR', 'data': 'hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '1GJPGR', 'data': 'Who are you to message me.Dont message me get lost first', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '53T1KY', 'data': 'LLr', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '4AP665', 'data': 'K', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'L25BG9', 'data': 'No say', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'DK1E3C', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'SBQZ44', 'data': 'Lekin mere pass draving lision nahi hai', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'J0XZ2W', 'data': 'Kk', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'KJ81D7', 'data': 'Which area bro', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'MKLRQR', 'data': 'hi', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'E000HF', 'data': 'your location of branch', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'SH6XR3', 'data': 'Thanks', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '1R9KCY', 'data': 'Bye', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'MDBMGD', 'data': 'hii', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'L85U58', 'data': 'Kk', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '083TIY', 'data': 'near by loction', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'K8JNRE', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'KB5UI6', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",location
+"{'id': '5L8EYD', 'data': 'gn', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'M1TU4A', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '22QESY', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'LNC1FM', 'data': 'Kkkk', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '058INJ', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'OW1ZTF', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'JZJE4M', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'F69M16', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '72CJBQ', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'PTY2SU', 'data': 'Mere pass paise nhi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'QFQHPJ', 'data': ""Sir I had already worked here..\n I don't need food delivery orders"", 'message_order': 1, 'comments': ['']}",location
+"{'id': 'U315PW', 'data': 'hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '6HH5JM', 'data': 'Where', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'WSRNNJ', 'data': 'M not interested for delivery jobs! Thank you', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '8AJTE1', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'DE9TME', 'data': ""Ya\n But i don't have license"", 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '668SMT', 'data': 'Which location', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'ASW8PM', 'data': 'I am not ready to deposit money', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'UWSBSO', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'GM823K', 'data': 'Get lost', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'AUO7TV', 'data': 'Just llr', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'JBEKLY', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'ROBBWG', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'MVKBP0', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'LF3WM8', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'VUZ3LI', 'data': ""I don't have bike insurance is it kk"", 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': '03EVKM', 'data': 'Konsi jagah', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'LMEQNF', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '5YAMLA', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'T5AAU4', 'data': 'No bike', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'TNB5JK', 'data': 'Sorry I dont have bike . Thanks for u information', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '1Y52T5', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '8KDPYK', 'data': 'Where location', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'WBUO8G', 'data': 'Where is it', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'L29ULU', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'MKDVO6', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '56JWJO', 'data': 'Address 0lz', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'NMIYP3', 'data': 'OK plz send me the above address', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'PQPQ56', 'data': 'Hii bro', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'KRCXPF', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'PESEJK', 'data': 'hello', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'W4VRGR', 'data': 'Kiddar', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'NWAKGU', 'data': 'Sir i have no bike', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'EB08CX', 'data': 'Were', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'HTX8QN', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'K51EKX', 'data': 'hi hello', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'DI76HP', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'OOMCAB', 'data': 'You have opening in which city', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'VD06G0', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'UQAMFP', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'AMX3AE', 'data': 'But what will be the job location', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'GK8B76', 'data': 'Bike ledhu', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '1KW9GC', 'data': 'K', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '0L9FZ9', 'data': 'Adras', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'XUUI3U', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'DEZ7FD', 'data': 'Driving license', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'RP1MAW', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'YAWLLY', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'LQWSR7', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '31EKKV', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '120CA0', 'data': 'I have ll', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '80NQQK', 'data': 'Get lost', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'VO5GN9', 'data': 'Kaha par hai job sar', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'WOBNOM', 'data': 'Learning', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'QNIZLS', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",location
+"{'id': '6KJLF8', 'data': 'bhai', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '6X73NK', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': '1GC8FT', 'data': ""Right now I don't have licence and bike"", 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'ENSAO4', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'O98G2O', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'CLMHYV', 'data': 'Ledhu', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'VKQOUV', 'data': 'Where', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'D4SZRF', 'data': 'I dnt have bike right now when I ll get it i ll cum to you guys', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'KZGXDN', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'CIGNCP', 'data': 'Under process', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '7DGUW1', 'data': 'hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'PRHF2W', 'data': 'Kahapar hai job', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'RPWUOA', 'data': ""Thanks for your services\n I'm not interested for this job"", 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'L3Q12A', 'data': 'Plzz stop it', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '6C7EMT', 'data': 'Sorry nothing driver license', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'MN1NEK', 'data': 'K', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '1UGE90', 'data': 'Thank you for your offer', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'AIIM0H', 'data': 'Where are?', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'LZHZMW', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'RZ3BM3', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'LGXWQU', 'data': 'hy', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'UIAJR1', 'data': 'Gud nyt', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'RA8BI4', 'data': 'Good morning', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '2EJDVD', 'data': 'hi2', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '2L7ANU', 'data': 'Can u share the address 1st', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'PMGGLP', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '89QVKV', 'data': 'No', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'Q8G11X', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'AB5GG0', 'data': ""Thanks for u'r information"", 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '3ARUG4', 'data': 'Hy', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '1R9FR2', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'ZSRTNU', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'JV6G9B', 'data': 'No bike', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '4RWUEH', 'data': 'Sur good afternoon..', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'AB4Z9F', 'data': 'Okk', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'XG1D89', 'data': 'Hii sir', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'A643NC', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'Q7CR5F', 'data': ""Swiggy don't need"", 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'Z1GOAN', 'data': 'Nice', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'J5JEBX', 'data': 'Okk', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '42263A', 'data': 'Yeah', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'VCM37D', 'data': 'Ohk', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'CF5VNJ', 'data': 'I will refer one num so send this msg to him', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'V8T1YY', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'HFTGDV', 'data': 'Dont send fake', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '2HK3UK', 'data': 'Okk', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '9P9P3E', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'R3GHDI', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'ROIJ08', 'data': 'Hi bro', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'Q0RHHA', 'data': 'Tq', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'V2V7CH', 'data': 'Thika muchkondu stop madu aste', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '23TQ9I', 'data': 'Hi how are you', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'D9WNUU', 'data': 'Kk', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'DB5QK2', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'K1TR01', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'MQNET4', 'data': 'Hlo', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '77YCXZ', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'TL03TM', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'TKRCL3', 'data': 'Thanks for ur support', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'KCAAX6', 'data': '1yes', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'OY7519', 'data': 'Hello vahan', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'KPK1YE', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'P2YI8N', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'RZW802', 'data': ""But don't vehicle in my castady"", 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'GL001S', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'N9HHXU', 'data': 'Haiii', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'DD2HR7', 'data': 'Kk', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'O4EO7K', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'IOU22D', 'data': 'Hai', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'NLH27I', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'LRVASC', 'data': 'Kormangala', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'PQ0PQF', 'data': ""I'm recently applied I have LR license."", 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '8SLBWY', 'data': ""Don't msg"", 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'XEOBIR', 'data': 'Okį', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '8YGBE9', 'data': 'Gn', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'HQAJ60', 'data': 'Okk', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'I635OX', 'data': 'No', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'FA3NYQ', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'DLEYE3', 'data': 'K', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'NT9KP3', 'data': 'But DL HAS GIVEN FOR RENEWAL', 'message_order': 4, 'comments': ['']}",location
+"{'id': '6ZO5WR', 'data': 'Which place', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'AINH4A', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'VHVPHP', 'data': 'Gn', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '4G0EFA', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'L2VSOV', 'data': 'Only driving license', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'ESPYEB', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '6KXGK4', 'data': 'Hii si', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '5RABDO', 'data': 'Bike nhi hai', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'RWVLOP', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'R6MKLZ', 'data': 'No two viller iam very sorry', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'UMTTR5', 'data': 'Nik siggu leda ra okasare chepthe', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'FHYYR8', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '84BPWS', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'THEBFW', 'data': 'Mere bhai mujhe job nhi chahiye', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '56QRXV', 'data': 'How are you', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'LB1I7M', 'data': 'Helloo', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'JKCOA9', 'data': 'nonono', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'VHSJD4', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '5IOFHA', 'data': 'Location please', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '0TJCZM', 'data': 'Sorry???', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'TPYIWA', 'data': 'Gn', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'FGOSK2', 'data': 'cheatinh', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'BKOHUW', 'data': 'Hi sir', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '7OI8D8', 'data': 'Hhi', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'H5EPK4', 'data': 'Sry', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'YO0F23', 'data': 'Bike ledhu', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'SB6F83', 'data': 'Nonsense', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'GKJ4HG', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'KRF317', 'data': 'Den go way', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'XA8AC0', 'data': ""I don't have Lisence.. Can u manage to join as delivary boy"", 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'DQICVI', 'data': 'Which place', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '7BFT6R', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'VTW0AC', 'data': 'Ohk', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'GL9YHY', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'UUXV60', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'FAPTWT', 'data': 'Acha', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'Y3VD3H', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'FV5CEZ', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '8XIS0Z', 'data': 'Hai', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'KRNXXH', 'data': 'Good night....', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': '7WH9BN', 'data': 'Nothing', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '0BQHVR', 'data': 'Sir', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'XOLZUG', 'data': '2not now I will text u', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'OHD766', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'U92MRP', 'data': ""I didn't DL I have LL"", 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'HD3IO9', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '13MA0M', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'I5GFWF', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'A1HKKI', 'data': 'Good morning', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'MT0NNG', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'NEVC54', 'data': 'Ok k', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'LDP9HF', 'data': 'How r you', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'POIPGV', 'data': 'Wer location job', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'LPOI4C', 'data': 'Can I now location of job', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'HDM0SX', 'data': ""I don't have bike or license"", 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'GB517E', 'data': 'Hiii', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '3HA95L', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'OCH5QW', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '25FKOM', 'data': 'Or kaise hai', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '0017JR', 'data': 'Hello', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '3Y99E2', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '2GKE4I', 'data': 'After 10 days am getting my LL', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'U9G3L5', 'data': 'Hello', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'L72WS4', 'data': '📷 Good morning happy Friday 💪🏻💪🏻👍👍', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'KWRJFZ', 'data': 'Kkk', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'N6NJQH', 'data': 'Lr undi', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'JVO7OY', 'data': ""But I don't have buke"", 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'KP8W7J', 'data': 'Oko', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '5GILMK', 'data': 'hi', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'UK8957', 'data': 'No', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '2U4FB1', 'data': 'But i have llr', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'UF7LJJ', 'data': 'Okkk', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '85FQKG', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'DD7USB', 'data': 'శుభోదయం', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '41815K', 'data': 'Naku bike ledu sar', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'HPJ8KT', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'OCQDXE', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'QBM9KT', 'data': 'Police complain karti hu ruk abhi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'MEPEXN', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'O24RQR', 'data': 'Hlo GM g', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'Q2Q5MS', 'data': ""Don't send a msgs"", 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'KIQISH', 'data': 'Kk', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'RTS837', 'data': ""I don't have a licensed"", 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'DZO8B3', 'data': 'Hai', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '7FNJWO', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'QNTTCV', 'data': 'Where is ur office', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '0PQ5GT', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '38KBHU', 'data': '1but I have an l l r', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'W1D1Y1', 'data': 'Llr', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'L9W05E', 'data': 'Location kha pr', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'WCMU5H', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '0BLG1A', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'NRLFUK', 'data': 'Good morning', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'UX721Z', 'data': 'ok sir', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '7ZV2ZC', 'data': 'Gm', 'message_order': 1, 'comments': ['']}",location
+"{'id': '67953D', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'HOVVFP', 'data': 'hii', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'PL2V5D', 'data': 'How are you???', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'JZ44J2', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'G9UVT1', 'data': 'No', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'AED848', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'CT13C0', 'data': 'Work location?', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'DNUR6L', 'data': 'Good morning', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'PRAIA7', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '2DGOTX', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'T744N8', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'C0Z5DM', 'data': 'Work location', 'message_order': 0, 'comments': ['']}",location
+"{'id': '6TDVCG', 'data': 'I nt have dl', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'GPYC7A', 'data': 'Gn', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '68VYHI', 'data': 'okk', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'P65502', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'X8WB05', 'data': 'LL is there', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'T2AGJV', 'data': 'Thanks foe ur information', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'O7CFAD', 'data': 'Hallo', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'U39RRD', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '54P80J', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'V9HA5U', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'Q8NC3Z', 'data': 'sir. ok. but nodriveng. lince. no. pancaed', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'M226FO', 'data': 'okk', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'P7FSAI', 'data': 'Plz didnot send me message plz stop I am not interested', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'W4XCV5', 'data': 'Who', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'H4450O', 'data': 'Thnaks bro', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'BD4CSY', 'data': 'Tanq', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '6AGA6D', 'data': 'Llr', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'PCLHAA', 'data': 'Okay', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'RV83UW', 'data': 'If you are computer so I block you', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'KCGIRE', 'data': 'which location in job', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '2QYU5Y', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'W28AV1', 'data': 'Sorry sir naku bike radu', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'RJO2YD', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'AKA188', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'G0YTF6', 'data': 'how r u', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'U46CVI', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'VGXE1C', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'D179FV', 'data': 'License ny he', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'CCGCRF', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'P72J31', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'XFOTY8', 'data': 'Good morning have a nice day', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'FR38MF', 'data': 'Hello', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'IRZGRB', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'A01YM4', 'data': 'Hi good morning', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'CIWI4T', 'data': 'Hiiii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'REE7P9', 'data': 'But I have driving licence', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'ZEFB5A', 'data': 'hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'RIZC3T', 'data': 'I have learning license', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'DO37RG', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '7FP5J7', 'data': 'Learning license', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '5QUNWY', 'data': 'Sorry I am not interested now.', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'VPKPIC', 'data': 'where I should come', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'AUKHAR', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '7KW0FL', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'TSOCHE', 'data': 'Okay', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'DS92QJ', 'data': 'Ok sir', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'MR1BZE', 'data': 'hi sir', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '6IL510', 'data': ""I don't have license"", 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'Z1BBP1', 'data': 'K', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'E11MWG', 'data': 'hi', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '9D4Y64', 'data': 'K', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'HQWDXL', 'data': 'Ya but. I have LLR', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'COQGDV', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'QPXXDC', 'data': 'Im not interested in swiggy', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'G131JB', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'X73HPY', 'data': 'Ok sir', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'N6CG21', 'data': 'Thanks', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'TAAJV9', 'data': 'I have learning license only', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'SPEZ29', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '5E1UXA', 'data': 'Sorry', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'V9Q6RP', 'data': 'Na location change chesaru', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'F0SL79', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'DGD773', 'data': 'Sorry', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'JDBKFQ', 'data': 'Hello sollu pa', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'SY7UB4', 'data': 'Kk', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '6VG42M', 'data': ""Thank you sir but I don't have a bike"", 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'R12ZW7', 'data': 'Hlo', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'DFWT8G', 'data': 'Okk', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'KM74WF', 'data': 'Tq', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'DDSON4', 'data': 'License nahi hai', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'WB6CAM', 'data': 'I want job but I have LR liasen', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'N0TDBQ', 'data': 'Hello', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'DYD4MX', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'IULHDF', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'KNM96V', 'data': 'I do not have a bike license.', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'L4YW36', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '4KLH28', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '4IRB9W', 'data': 'Thanks', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '7BH1QX', 'data': ""I don't have a bike not even driving licence"", 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '2SI7HJ', 'data': 'K', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'HB3IIR', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'XS8GIU', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'PX6QJF', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'DJAQN6', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'T6WR9P', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'OEIZXM', 'data': 'Thanks', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'THGW0X', 'data': ""Yes sir.. I didn't D L n bike"", 'message_order': 2, 'comments': ['']}",location
+"{'id': 'GJM13I', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'XVAEMH', 'data': 'Job location wr r u', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'QDLS2Z', 'data': 'hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'ZSPF88', 'data': 'Okay', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'ZV0FPS', 'data': 'Okh', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'K88FOL', 'data': 'Stop messaging', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'VN9S16', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'SWKWY7', 'data': 'Great....Good night', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'QEQ1PJ', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '37OLG4', 'data': ""He'll sar"", 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'UI5CV5', 'data': 'Which location are their', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'IN20W3', 'data': 'Learners licence is available', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'MTXKGZ', 'data': 'Bro not interested', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'WD0C2T', 'data': 'Hello', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'C1PIYR', 'data': 'Sir', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'P07N01', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'I9FQCF', 'data': ""Sorry sir I don't have bike"", 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'QTCXZ3', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'ZOJGB7', 'data': 'Sir..\n But I did not have pancard and bank account', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'FLIQBX', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'HT27EN', 'data': 'Kelasa Elva', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'R0O6N5', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'L7LKT2', 'data': 'Ledu', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'UANW3N', 'data': 'Sir', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '7USLC2', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'FKFA1L', 'data': 'hi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'B9RDD2', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'FYZWM5', 'data': 'K', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'V6LDC1', 'data': 'Good morning.....', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '164V1L', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'UF2EUD', 'data': 'OK', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'BKKXDG', 'data': 'no', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'E5F6CQ', 'data': 'No licence', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'QCMLGN', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '9PEM65', 'data': 'Thank u', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '8BSIMO', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '03TAJV', 'data': 'Oky', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'CF6NIV', 'data': 'Sorry', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'MUB3FU', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'E5JXZL', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'MJRLEM', 'data': 'Abhi nhi phir kbhi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '1ZCQBV', 'data': 'Tell me Job location', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '09E45T', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'IUVLBI', 'data': 'Good night', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '5QOVNP', 'data': 'Okey sir', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'ON0YEE', 'data': 'Kaha he job', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'FQDGK7', 'data': 'hii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'KHTZER', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'LM326C', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'H3MW11', 'data': 'Hiiii', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'DUGYJD', 'data': 'Location??', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'VPXQHL', 'data': 'Mai bike nai chalata hu', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '3ZYOGB', 'data': 'Hey will u just stop this', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '3HZYA4', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'T9WL4I', 'data': 'hlo', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'OC3DV7', 'data': 'I have no vehicle', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'YJ4537', 'data': 'For this', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'IP15RQ', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'O4FJSW', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'HDXI1F', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '94JJAW', 'data': 'Gn', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'WX6AGH', 'data': 'Okay', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'F3EA2C', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'ADZCIU', 'data': 'Learning license', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '0CWUPT', 'data': 'No need thank you', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'F474R2', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'FM3QFK', 'data': 'Where is kasturi nager', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'HE1X8Y', 'data': 'Job location', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'RQ6SL0', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'JAY0T6', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '086N43', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'PR8UMM', 'data': 'Thanks for the info', 'message_order': 4, 'comments': ['']}",location
+"{'id': '2KFWIG', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'H79VAQ', 'data': ""I don't have bike and Dl Bro"", 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'MPJIAH', 'data': 'hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'AGANXR', 'data': 'Stopped', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '33PLHY', 'data': 'K', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'NAA66N', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'YHKPQE', 'data': 'Kindly don text to this number', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '046WH0', 'data': 'Hl', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'PKZ99B', 'data': 'Mere pass bike or license nahi hr', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'FZUS1L', 'data': 'Kindly don text to this number', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'IMGPVX', 'data': 'I dont want to delivery jobs', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'XIV6P6', 'data': 'Good night', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'EN3611', 'data': ""But I can't pay Rs.500"", 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'EOM2H8', 'data': 'I have no bike', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '1V696S', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '6G95DC', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'SLVFSA', 'data': 'Kaunsi si jagah job Milega', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '7ZUAO9', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '235F9O', 'data': 'Baik nhi hai', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'B7ZJ9U', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'O9JH2A', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'ZSLLF0', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'Z8W1PA', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '28WE95', 'data': 'I get licensee in 1month', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'CXE2QX', 'data': 'Hello sir', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'URKJO7', 'data': 'I have no bike', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'YGG7LW', 'data': 'Chal nikl', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'DK96EP', 'data': 'Location vasai hai', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'V0UY6B', 'data': 'Hey hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '4UXIZP', 'data': 'Present bike ledu tesukovali', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'UFF6SY', 'data': 'Hiii', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'ZIYE6F', 'data': 'Hi unnati', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'IF4MIE', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '9M8W8Z', 'data': 'Which area sir', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'DL62C5', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'LSB6D1', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'KWXA1A', 'data': 'Acha ji', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'UZTJJN', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'PHC311', 'data': 'I am going to block you', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'O88VMG', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'OCSV3I', 'data': ""Sir I don't need delivery jobs\n That's it"", 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'LGC08Q', 'data': 'Gn', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'I454KT', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'O509X8', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'GYE4YW', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'A8VQ26', 'data': 'Am not interested', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'TIF3RR', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'AO7FQE', 'data': 'Location', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'QVA0ET', 'data': 'Hiii', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'ZVK64K', 'data': 'Where job', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '52YKF9', 'data': ""But I don't have driving licence"", 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '3IY450', 'data': 'Good morning', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'GF2NBM', 'data': 'Kk', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '2RBDA7', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'TA5WVC', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'MUQDUS', 'data': 'Address kaha hai', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'ADNP05', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '02J6AH', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'DZKRA8', 'data': 'Accha', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '8KPBCZ', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'HNHLTX', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'PRULYV', 'data': 'hiiii', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '6CYRQ4', 'data': 'Driving licence nahi hey', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'GV9EL7', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'LLW7ZI', 'data': ""Hello sir I don't have a bike but rest all documents i have it sir"", 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'GJDMDT', 'data': 'Oka', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'LO5PRH', 'data': 'Good morning', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'YTCOVO', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '17W2WV', 'data': 'K', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '85BQN9', 'data': 'I have learner license', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': '53JK8R', 'data': 'Thank you ...', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'Q9MIC0', 'data': 'nko', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'OHC7GR', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'DU84G4', 'data': 'OK', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '37DZZ1', 'data': 'Hello sir', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'OY3IWJ', 'data': 'I have no bike', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'FEYRJN', 'data': 'I will no bike & dl', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'UTBL5H', 'data': 'Okay', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'SUDVZZ', 'data': 'No . I say near r t nagar', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'IUDZU7', 'data': 'I no redy', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '52YK6C', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'O8F6MU', 'data': 'Job kha pila gi', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'R6HY0F', 'data': 'Kk', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'TB33WO', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'XMB347', 'data': 'k', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'RSUN4J', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '5JRG68', 'data': 'Bike nahi hai', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'TWWXCF', 'data': 'Where is u office', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'X99JKG', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'N6XVD7', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'Y5YDJB', 'data': 'Area?', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'CUUCVT', 'data': 'Okay', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '8DAAR9', 'data': 'Good night', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'NIDT4A', 'data': 'I dont have a pancard even', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'O0XDID', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '4M849W', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'S35OKB', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'CQOP92', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'FN5Z5W', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'HYLH1S', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '95JNGU', 'data': 'Okay', 'message_order': 1, 'comments': ['']}",location
+"{'id': '8D40AQ', 'data': 'We accept llr license', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'EQKFND', 'data': 'Sir but mere pass bike aur licence nahi hai', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'Y5125C', 'data': 'Hie', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '9LX11E', 'data': 'Ya s but I have only LL no DL', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'JI7V0E', 'data': 'Where is kasturi nagar', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'U1YL8G', 'data': ""I don't have bike and license"", 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'XTUKQ8', 'data': '👾 ಬೆಳಗಿನ ಶುಭೋದಯ ಗಳು', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '1BAJTY', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'S6FC2N', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'NLVBNZ', 'data': ""Don't send am not interested"", 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '374CIS', 'data': 'Good morning', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'EMQRX0', 'data': 'Oki', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'CKIUDA', 'data': ""I dn't have a DL"", 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': '08WGIU', 'data': 'Fine', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'WEFZO2', 'data': ""Sir i don't know driving"", 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'CVZV5B', 'data': 'job where are you', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'ZJV5QL', 'data': 'Get lost', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'UW2T30', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '7R8POZ', 'data': 'Hi sir', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '92L1PR', 'data': ""I don't have driving licence"", 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'F3OFHG', 'data': 'Iam not interested in delivery job', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '7MNRCQ', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'ZKQLKO', 'data': 'where is the job location', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'LL6AT9', 'data': 'Ohk', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'NC1HSB', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '84N0S8', 'data': 'Hello sir', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '1ACHIO', 'data': 'Bt mere pas vehicle nh hai', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'HVNNUY', 'data': 'Okay', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'IGO7F2', 'data': 'K, fine', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'OA6JII', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'HB14TI', 'data': 'where are you from in job', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'AJ4WSI', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'XPMG0A', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'I7WRIB', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'KY56LC', 'data': 'I have no bike', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'JMJTL9', 'data': 'bro Wr I should come', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'UJ3XPA', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '1XSB47', 'data': 'Thank you Sir', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'DCKF5V', 'data': 'Morning', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'O1ZXH9', 'data': 'Soory i have no driving Lance', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'WC34RH', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '19EF4D', 'data': ""Yes im interested but don't have a two wheeler sir"", 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'XULZHJ', 'data': 'K', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '79N6FZ', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': '7AP1SC', 'data': 'Oky', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'S820CU', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'KH7EKG', 'data': 'Hai', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'I504LY', 'data': 'I hv LL', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '1VXAIG', 'data': 'Ok thaynku gd night jab par', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'PNFFMO', 'data': 'I have LL', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '7CHB8S', 'data': 'Sorry', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'IMHT87', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'QN5CN0', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'I3ZYYK', 'data': 'Nahi dena mujhe', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '8KYUB7', 'data': 'Okay', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '5GSHEF', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'RO1WVH', 'data': 'How r u', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '89RC51', 'data': 'In which place', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'IKZMAC', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'L6U8FL', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'TEKXZF', 'data': 'Job address location Mumbai pune', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '4AIT4Q', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'LFRUV9', 'data': 'OK. Tq', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'OOUXDZ', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '0MJ11H', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'HDUAYN', 'data': 'Kidar apko milna hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'Q8W3KR', 'data': 'Merai pass bike nayi hai', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '2TBMES', 'data': 'Not both', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'KJAYWQ', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'FEZ7HC', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '6FUDO4', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '5N1PIQ', 'data': 'How r u', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '8VGRFQ', 'data': 'Wokey', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'J844OH', 'data': 'Wish', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'GVOU17', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '558034', 'data': 'ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'NSP1K9', 'data': 'Kk', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '0UEJSS', 'data': 'Sry', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'RJNLY5', 'data': 'sir u r place Bangalore', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'DD659B', 'data': 'Hi sir', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'VIKEHJ', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '79BF40', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'Y7365G', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'KZMVCM', 'data': 'hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'M9NCE2', 'data': 'Yeah', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '4FLHEM', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'WXGVI4', 'data': 'Kkk', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'LNUI4U', 'data': 'Lening license', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'CN6P4L', 'data': 'GOOD MORNING🙏🏻🙏🏻', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'FL9D23', 'data': 'Hey', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'F17ZYY', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'CW282B', 'data': 'Marathi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'RXVCEQ', 'data': 'Okk', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '1NTVZJ', 'data': 'Delivering location Chamrajpet Hanumantha Nagar Srinagar', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'GKAYKW', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'I77DFN', 'data': 'Ur location', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'LMMZOJ', 'data': 'Where it is', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'ENCFMY', 'data': 'I don’t have bike', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '3TTNA5', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'WWYUHK', 'data': 'Learning is dhare', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'HX6QXU', 'data': 'I can not write', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'DH6XOD', 'data': 'Ohk', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'K9L2A3', 'data': 'LL', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'WXSCUO', 'data': 'I have a no bike sir', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '895JA8', 'data': 'Hiii', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'VPQ0GM', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'UGZO97', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '06R0XI', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'V9IL7J', 'data': 'Yas', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'MMN7P5', 'data': 'Where the place', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'YN2D10', 'data': 'Sir', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'COBCDL', 'data': 'Bike nhi hai mere pass', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '478QTE', 'data': 'Hiii', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'YP3W2G', 'data': 'hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'MY6FWO', 'data': '1yes but present Learning Licence I am having', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '4K6RXR', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '1R2IPY', 'data': 'Hiii innappndra', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'W1AE3I', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'KEFE0P', 'data': 'hi', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'NP0EOJ', 'data': ""But i won't have dl"", 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'RZ4ZFZ', 'data': 'Mere pass bike nahi hai', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '3ZCLB3', 'data': 'Nahi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'R1VHRX', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'S74XN6', 'data': 'I dnt hav a bike', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '3HBNB9', 'data': 'Which place', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '4VH9C4', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'J01QQ8', 'data': 'hi3', 'message_order': 3, 'comments': ['']}",location
+"{'id': '47QSQU', 'data': 'Jai Shree Ram', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'P9IFVW', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'I2IX1I', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '9BPZX4', 'data': 'Hi hi hi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '1FHH3G', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'AT0QDV', 'data': 'Were it is', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'TYOIL1', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '6LVRNV', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '18NOXK', 'data': 'But I am student for F.Y.B.com \n I have no licence', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'RC36KR', 'data': 'Stop', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'FG3AD0', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'YDGVDZ', 'data': 'LLR', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'UD66D0', 'data': 'Ook', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '60BWU7', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'QVFONY', 'data': 'I have only LLR license', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'F520FD', 'data': 'Ok sure', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'M2V3MY', 'data': 'Ha', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'TH12ET', 'data': 'Good morning sir', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'ZR4LPT', 'data': 'sry i dnt hav an bike', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'A4L2RQ', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'H8JDDA', 'data': 'hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'NUM69D', 'data': 'Acha', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'S95CD9', 'data': 'I have LL', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'DUXJTY', 'data': ""Both are too far I can't"", 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'HE3CNK', 'data': 'Wear your office bro', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': '3RSTL8', 'data': 'Hiii', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '6E05NH', 'data': 'LL is ther', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '5ZTPOG', 'data': 'Kaha par has job', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '125VTF', 'data': 'Hi hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '1W1QG5', 'data': 'ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '3G2THN', 'data': 'Hi r', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'M37VXW', 'data': 'Okay', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'CTYKF2', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'SCODG1', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'RCK7RW', 'data': 'I have LLR next week lo licence vasthadi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '59C1L2', 'data': 'Morning', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'VYVZZX', 'data': 'Which location', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'WFIOJ9', 'data': 'Ur ofice adress', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'BQDNN3', 'data': 'Sorry', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'OYWTWP', 'data': 'No', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'UNBFR7', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'P4OPF0', 'data': 'I have no bike', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'VI3CTF', 'data': 'thankuuu', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'MP6N06', 'data': 'Sir', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'OHD91N', 'data': 'No', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'A9TLL4', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '0OAKKF', 'data': 'I dont have licience', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'U46291', 'data': 'No thanks..', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'PS9NBB', 'data': 'hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'S4JHKR', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'KYZWMM', 'data': ""Thank you sir but I don't have a bike."", 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'MIRO8C', 'data': 'Where is my location', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'SK816L', 'data': 'Were', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'TJ39V4', 'data': 'No', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '6O64I5', 'data': 'OK', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'Z55STC', 'data': 'Hello sir', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'PN0CRH', 'data': 'Jus I have LLR', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'XAF4BD', 'data': 'ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'PQ130E', 'data': 'ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'NGTHRI', 'data': 'Interview kaha deni hogi', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': '4KZQ0Y', 'data': 'But sir mere pass baik nahi hai. Kya aap meri helf kar sakate hai...', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '15UFCJ', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'JJUVZD', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'W3LA22', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'WRJ8Q8', 'data': 'Which place', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'E6LVPV', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'RKQX07', 'data': 'BYKE is next month cmng', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'FOUG4I', 'data': 'Where is your office', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'F2XJYC', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '1RH549', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'U5V6ND', 'data': 'Learning licence', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '8UTUZ1', 'data': 'Okay', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'EKQTM4', 'data': 'Good morning sir /madam', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'OE7SNF', 'data': 'How r u', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'ZCO9UA', 'data': 'Par mere pass paise nahi he', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'I0ISDR', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '76YNKO', 'data': 'K', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '8SY3KF', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '25ZYYK', 'data': 'Nahi he', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'ZM4ZLD', 'data': 'No', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'UFXTB4', 'data': 'Sir', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'C1OPQ7', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '38QAZJ', 'data': 'Ur location', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'G88MTS', 'data': 'K', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'R8HCBH', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'BX5G1V', 'data': 'Where job??', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'W196LI', 'data': '📷 Photo', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'V1COVM', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'IBYHYC', 'data': 'Hi I m not looking for', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'EXN27S', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '6AXZ5Q', 'data': 'Kk', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'H973BM', 'data': '🙄 Its in banagaluru ,right ?', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'IPCGS7', 'data': 'Where is the office', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'UE1L7K', 'data': ""sry mam in father's business"", 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'S7GCMJ', 'data': 'K', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'EUAN4X', 'data': 'I dnt think so', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'WQH1Z9', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'H75M02', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'RTICPJ', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'D0S77P', 'data': 'Not interested thank you😊', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'BXHB25', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'TNGMNZ', 'data': 'Kahhpe hy job amrvati', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'U87K5V', 'data': 'Wr is it ?', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'VHK9ON', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '19B8WE', 'data': 'Learning license', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'G3YNHD', 'data': 'ok', 'message_order': 2, 'comments': ['']}",location
+"{'id': '4WSDNA', 'data': 'Hello sir', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'OV675H', 'data': 'Sir I am intrasted. Bat I have not a baik. License is avalebal', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'XSN5A5', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'P6MAX4', 'data': 'Ok.', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'GE430Y', 'data': 'No', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'DFR56M', 'data': ""I'm back we're is your address plz tell me"", 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'XXYTRP', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '1Z2HWA', 'data': 'Good morning', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '9WTA9Y', 'data': 'I have ll', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'S2AXEY', 'data': 'Okkky', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '9E4XGW', 'data': 'Gd evng..', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'I6U5ZU', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'UIUDTO', 'data': 'No', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '5VOIJP', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'UWTSFR', 'data': 'Okay', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'HQF1HR', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'X45M7H', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'EO1LKF', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'MIFRVU', 'data': 'Were is the place', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'CLLF6X', 'data': 'Hai', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'U3GQID', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'K11O4A', 'data': 'This is for where sir...', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'PI9IHL', 'data': 'I want to work bit no bike', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'KHS8KE', 'data': 'muze bike chalani nHi ati', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '0HPBOD', 'data': 'Prasent learning', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '9F8KOD', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'D86AJB', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'OSZN6B', 'data': 'Hi.. thanks for your message', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '5L9I6Q', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '7RJSVI', 'data': 'May I know the location', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'F7FYP8', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'E2TWWS', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'VBVDEM', 'data': 'Jai raam ki', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': '7IR3UF', 'data': 'Aur Area konsa', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '0F4R9V', 'data': 'Hlo', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'X77W2O', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '824QE4', 'data': 'Send me Kurla office address', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'AGAHAL', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'SJZI46', 'data': 'hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'YYYAYR', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'KDYOXZ', 'data': 'Mere pass bike nhi Hai', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'HE8CGB', 'data': 'Good morning', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'LQIS1P', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '5J64PX', 'data': 'Rajajinagar', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '0OWKV0', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'JSGYP6', 'data': 'Good morning', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'QOED04', 'data': 'Actually having learners licence...need to apply for a drive test', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'NLWFRW', 'data': 'hello', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '1D547R', 'data': 'I know your a software', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'EK927B', 'data': 'Good morning sir', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'OIR7QX', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'CO8TAM', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'T9J4NM', 'data': 'Were am doing job?', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'QGGNUF', 'data': 'k', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'NPXIS6', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'T0MXD5', 'data': ""Can't you understand what I said"", 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'TTP2CO', 'data': 'OK', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'XRLTV1', 'data': 'hello', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'TJ88P0', 'data': 'Llr', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'I1H9OC', 'data': 'Ok sir', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '9GLKIF', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'PNGQ38', 'data': 'Sorry', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'PV3JBJ', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'JHQRPB', 'data': 'kk', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'JZXI9Q', 'data': 'no other office', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'RFRN64', 'data': 'Give me address', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'OPWRI7', 'data': 'Gn', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'QZSNWW', 'data': ""Don't message it"", 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': 'J75X5G', 'data': 'Iam not interested in swiggy', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '3NVYJK', 'data': ""But my license is yet to come.. It's gone Na work"", 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'H45JGK', 'data': 'Thanks', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '55P639', 'data': 'Hlo', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'CX58AJ', 'data': 'Nahi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'FSC297', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'OI3I5Y', 'data': 'Tq for your response', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'O450R4', 'data': 'I have learning licence l vill get my license in 15 days', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'CX2PE3', 'data': 'ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'ALPHP7', 'data': 'कुटे है', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'N3LG7T', 'data': 'I am not Interested', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'IQM0QR', 'data': 'Hii', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '9P1FNL', 'data': 'Location', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'BYHDQU', 'data': 'Ha okl', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'JOJ8F9', 'data': ""If we don't have driving licence"", 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '8KG50X', 'data': 'Anna deposit Mado astu amount illa dayavittu nam bitbdi🙏', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '4MP2P8', 'data': 'Job konsa state may hey', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'LURWFU', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'GR6N9V', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'U359T8', 'data': 'Hru', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'AW9623', 'data': 'No le lo', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'W8YQNR', 'data': 'Thnx to inform me', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '0HC827', 'data': 'hi thank you for your sms', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'A4KQLM', 'data': 'hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '1P6IAB', 'data': 'Which area?', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'UI602D', 'data': 'Work location?', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'UPDFRN', 'data': 'Location sir', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'K8DEEZ', 'data': 'Okk', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '86AD2F', 'data': 'Ok thank you', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'Y3DQS3', 'data': 'Location', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'YAN25P', 'data': 'Hi gm', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'J77AVL', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'BCXRNS', 'data': 'Mere pass bike nahi hai', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '2P275B', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '310PQ3', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '4KKZ5W', 'data': 'How are you', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '0S59LJ', 'data': 'Job location', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '21Z3H2', 'data': 'Hai', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '00JWU7', 'data': 'Thank you for', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'PGQMW4', 'data': 'I have no bike', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '7U1ACE', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'BH3HOT', 'data': 'Sir', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'WDRC9D', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'V4HBEQ', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'UBWJH6', 'data': 'K', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '117U0C', 'data': 'Hi..Is there any vacancy in dilsuknagar..Part time', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '4UHGMY', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'FEVMZO', 'data': 'How are you?', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'BUB1UM', 'data': 'Learning', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '2KFE74', 'data': 'Your office where in India', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'HG1948', 'data': 'Learner licence', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'DQSOCO', 'data': 'Sir mai delivery ka kaam nhi kar sakta', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'YUBP3S', 'data': 'Which is nearest to yelahanka', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'Z1MDYC', 'data': 'But no bike no licence', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'VUF1NU', 'data': 'Receipt hai learning', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '9DGD27', 'data': 'Sorry I Dnt have', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'IQN02J', 'data': 'Hi sir', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'VXRU9K', 'data': 'Meanae thoo naa lagta madam😂', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'MSWPRP', 'data': 'I dont have lisence i have only kearning license', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'MJGO8M', 'data': ', learning licence', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '5RY1Q9', 'data': 'Hai', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '5SRH89', 'data': 'Applications fee nai bhr skte', 'message_order': 5, 'comments': ['']}",location
+"{'id': '5FE2S0', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '6ILTPZ', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'RJP3VJ', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'TDN2DG', 'data': 'Helo', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'J5JK3I', 'data': 'But mere pass bike nahi hai', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'H7Z189', 'data': 'hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'QILVUO', 'data': 'Okk mam', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'EELO82', 'data': 'Haii', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'ZA6147', 'data': 'Hi sir/madem', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'KMREF9', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'J2BGNB', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '2D3VE2', 'data': 'Tanks', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'M2JD8T', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'EV4FMW', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '1IV8BS', 'data': 'Hi friend', 'message_order': 0, 'comments': ['']}",location
+"{'id': '11CWDO', 'data': 'Sorry me biji u', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'MO79JO', 'data': 'but I have no bike', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'X6P9MD', 'data': 'Learning', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'INDZM2', 'data': 'Sir', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'A3R1ZW', 'data': 'Naku bike lisense ledhu bro', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'HRM3PX', 'data': 'Sir dl no sir', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'Q6O4ZY', 'data': 'Hiii', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'E1HR6M', 'data': 'K 👍🏻 thank u', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'FKSHEM', 'data': 'नमस्कार', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'DDB319', 'data': 'Please stay 1000 miles away from me ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '8S7ILQ', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'ONI2HG', 'data': 'Hiii', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'D2L1Q5', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'HFXRNN', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'JHC6KP', 'data': 'Hai sir', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'IBOPQZ', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'LOKI9L', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'R7ZLXP', 'data': 'Shut up', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'TRGO9C', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'MZVG22', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'BFHL5L', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '2URK5R', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'TLKO9W', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'W3WJJP', 'data': ""Don't have bike"", 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '26W4YB', 'data': 'Llr apply', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '504A87', 'data': 'I have two wheeler', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'F2TL4M', 'data': 'Hellooo', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'IKEG2C', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '7SIAI8', 'data': '16 yrs old', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'RRZH2E', 'data': 'OK', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'FNQH9B', 'data': 'Kkk', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'MCP82B', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'W4HS4E', 'data': ""No, it's too far"", 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '9D43HQ', 'data': '📷 Good morning and have a blessed day', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'K8FV7Q', 'data': 'Wher is located', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'NUCCYI', 'data': 'Hlo', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'TCUMVK', 'data': 'okkk', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '3CW8Z2', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'QFGVEJ', 'data': 'Bhai', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '936ZBZ', 'data': 'I have licence only', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'SYPSVX', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'LTRC8R', 'data': 'Thanks Sir', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'R7I6QR', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '4IVPPG', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '1KHSFI', 'data': 'Okay', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'F75I6F', 'data': 'Kk', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'ES8RPX', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '6Z0L4B', 'data': 'Learning license', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'P84DHC', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'JQKJCR', 'data': 'nhi chaiya', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '9X8L99', 'data': ""sry i can't come to ur place becoz it is from my place"", 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'FIO1JL', 'data': 'Ledu', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '3U6JVF', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'UGV83J', 'data': 'Where', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '8QRQAB', 'data': 'Only LL now', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'J2DWTS', 'data': 'Hai computer', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'SH4JK9', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'FOVBQ8', 'data': 'Mere pass bike nhi hai', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '0PB2TO', 'data': 'Ok good night computer tomorrow Ok bye bye', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'SQEHD9', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'N79ZBB', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '3PMWYL', 'data': 'Kk', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'GD5JEY', 'data': 'OK', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'N3KE3Y', 'data': 'Sir but licence nahi hai', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'QENOU2', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'PB0LNI', 'data': 'No', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'AB2MWD', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'APU6K0', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'P5U8BR', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'FSICSG', 'data': 'Location ekkda', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'W8EH67', 'data': 'Hello sir', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'JJX57F', 'data': 'Kis jagah jab milega', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'T0GHYQ', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '0JBBP1', 'data': 'Which city?', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'FZK3U1', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '5P3WDR', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'QLL37P', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'LBVUC7', 'data': 'Hai', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'AI8P2U', 'data': 'Sorry by mistake I type for delivery jobs', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'WUQ3S6', 'data': 'No', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'Q1P6KR', 'data': 'Where is kasthuri nagar', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'Z8SW18', 'data': 'Bhai', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'XV7RXO', 'data': 'hi', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '85P910', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '7MM5BI', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '94RZHO', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'R0CTRI', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'RTN7XY', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '6F9UJ8', 'data': 'Hello', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '2GJTID', 'data': 'Kya location h', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '1W10IN', 'data': 'Ohk', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'Q3PQ76', 'data': 'Good morning', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'IOYH8U', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '7OH4DV', 'data': 'I wont give u money', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'RZRIRY', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'TI79FX', 'data': 'Thanks sir', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '0BBXYF', 'data': 'Time to batao', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '4V8AFG', 'data': 'Area', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'Z46ER3', 'data': 'Hai', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'AESDQ6', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '0BT3SE', 'data': 'K', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'LE5LR6', 'data': 'GD morning', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'TA46Z1', 'data': 'hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '7H4YG4', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '3PZCH7', 'data': 'I dnt hv bike', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '6HE19X', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '7V6ZDM', 'data': 'Were', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'J69UA7', 'data': 'Kk', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'L9LUQ5', 'data': 'Ledu', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'Q12FRA', 'data': 'LL', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '4CVER8', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'KR227S', 'data': 'Kk', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'KW5F9G', 'data': 'I have lerner licennce alredy apply for D/L soon it ll be dispatch', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'JUHXD8', 'data': 'Location.', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '3T3G9D', 'data': 'Nai kar naa hai', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'SMW7FU', 'data': 'Hlo', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'HBGHB8', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '9M79TY', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'BPJR7R', 'data': 'I dnt have a smart phone i have only learing licence', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'C6GITD', 'data': 'not interset', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'Q5398P', 'data': ""Don't send messages"", 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'E1PLT8', 'data': 'No tks', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '800DKL', 'data': 'Hiii', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '4N2CRG', 'data': 'Were is ur office', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'VCNTOH', 'data': 'hi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'V5OSN1', 'data': 'Hi thanks for considering my cv', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '80SE2N', 'data': 'I no message', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'J50QAA', 'data': 'Hello sir', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '9Z5ZWB', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '2AZJWB', 'data': 'Kk', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'EGUD9E', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'P7AHQM', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'ZZLQHT', 'data': 'Nooo', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '917L7M', 'data': 'No', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'CB77MR', 'data': 'Helli', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '4ZP32Y', 'data': ""Sorry bye don't disturb"", 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'XJ03Y8', 'data': 'What areas bro', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '440YF1', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'DL9GXF', 'data': 'Hi sir and madam', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'JVRMEO', 'data': 'Sir your mine office were', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'M8KK2U', 'data': 'Which location is the job I will be working', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '3P4V9I', 'data': 'Kk', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'QIBNFI', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '0RVB4Q', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'ELMYDI', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'IM25C1', 'data': 'So why did u msg me', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'MMGDLN', 'data': 'Hai', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'I59KVN', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '0903V4', 'data': 'Ok sir', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'TR4O65', 'data': '2ella', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '6SGQ89', 'data': 'Which location', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '6TCWE2', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'LDNX6C', 'data': 'I need job. I have learning license. I am possible this job', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'HPAET0', 'data': 'Okay', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'RK7OC5', 'data': 'Not insert', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'EYX46I', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'LXMKUE', 'data': 'Ledu', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'KQ578D', 'data': 'I got a new bike but rc card innu bandilla..', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'HW1HOR', 'data': 'Thank you', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': '7RR3M9', 'data': 'Ledhu', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '9IXFJQ', 'data': 'Hii', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'RTVV5I', 'data': 'Srryy', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'G1DSIC', 'data': 'Aitu iru guru', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'JFR89C', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'XCYGKZ', 'data': 'Hlo', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '74SIRS', 'data': 'Ye office kahan h', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '52GEW1', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'HJFBYP', 'data': 'Ll', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'AQDCYJ', 'data': 'which location', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'RSCP5L', 'data': 'Sry', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'BM3TLW', 'data': 'Kk', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'W718QE', 'data': 'Hey', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '8Y1W83', 'data': 'Stupid', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'W5QBCO', 'data': ""Hi sir I'm Suchindra"", 'message_order': 4, 'comments': ['']}",location
+"{'id': 'VEOSVE', 'data': 'hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '883H09', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'O4H216', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '49VTA7', 'data': 'Ok', 'message_order': 2, 'comments': ['']}",location
+"{'id': 'B0IE4H', 'data': 'Sorry no bike', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '8DC77D', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'S1J8GQ', 'data': 'Hello', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '6CZUO7', 'data': 'Not interested in delivery jobs', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'W066CD', 'data': 'No sorry computer', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'C0PYT6', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'ESSVEF', 'data': '2,4', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'IYQA8D', 'data': 'Helloo', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'SI8VLB', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'ZXO02B', 'data': 'Hey', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '58KK6L', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '3NX0FU', 'data': 'Hey', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'WKJ4LZ', 'data': 'But sir me paise nhi pay karunga', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '24ACRP', 'data': 'I have learning license', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'E5NQXV', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'LG068R', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': 'U67Y2Y', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'QQUC9W', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'ZS0P43', 'data': 'Good morning', 'message_order': 1, 'comments': ['']}",dontMeetRequirements
+"{'id': '02OPPR', 'data': '📷 Good nyt', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'UVPQW8', 'data': 'Licences. Bhi nahi hai', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'IGG8IN', 'data': 'Learning', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '3MQCW6', 'data': 'Location package', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'Q97HXL', 'data': 'Where is koramangala....', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '4P39K1', 'data': 'Hiii', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'AX3Z80', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'NZ0IMY', 'data': 'Okay', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '7VIRCL', 'data': 'Hii', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'WDI3UX', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'QYGBXK', 'data': 'I have llr', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '8HD23X', 'data': ""I like to kasturi nagar but on saturday I'm on amazon job"", 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'JR0Q85', 'data': 'OK', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'Z82NGE', 'data': 'hi', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '5D6A1K', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'Y4M9JV', 'data': 'I have no bike', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'Y012MS', 'data': 'Kha ana hoga', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'FN35PF', 'data': 'Hello', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '1HXI2U', 'data': 'Learning licence', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'XVXEDD', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'ERJL2M', 'data': 'K but my work location', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'KAHXDN', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'CBMJ8Y', 'data': 'Good night', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'Z9V5MB', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'SKQJWY', 'data': 'Hi Unnati', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'WCFY8R', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'X9CVNM', 'data': 'Thank you for your valuable time sir', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'M0EGOL', 'data': 'Jayanagar', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '9UMMAT', 'data': 'Which area', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '2Q1I3A', 'data': 'Ok ok thn', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '8QWDOE', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'ZHY9TC', 'data': 'Driveing license leadu', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '9BKLED', 'data': 'But I had no bike sir', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '9TJKJD', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'ZFEHBI', 'data': 'abhi to nahi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'ZJHAY0', 'data': 'hi', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'GRB1HY', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '31FHRD', 'data': 'did job isz in bnglr', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'OVRBFY', 'data': 'Ok', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': '49JU9Y', 'data': 'Thanks for informing me', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'LNMUK3', 'data': 'helo', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '4BNG3Z', 'data': 'Gud mrng', 'message_order': 5, 'comments': ['']}",dontMeetRequirements
+"{'id': 'PR0DLI', 'data': 'Nonsense', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': '6QWVCA', 'data': 'Ledu maa Brother di Undi', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'T6LKPT', 'data': 'I have no bike', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'MNA87X', 'data': 'Ok tell me', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'V9ENRZ', 'data': 'So', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'SNBWZL', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'WUFSB9', 'data': 'Tqq sir', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'BH82M4', 'data': 'Which airea located job', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'ANF2WV', 'data': 'Dont have vehicle', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'TXFF2F', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'ALNG6H', 'data': 'hloo', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'DBV3OG', 'data': 'Tq', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '90C51H', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'QTW3M5', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'B40NI9', 'data': 'Thnx', 'message_order': 3, 'comments': ['']}",location
+"{'id': 'LD3NM4', 'data': 'I have driving licences llr', 'message_order': 1, 'comments': ['']}",location
+"{'id': '1JJI6S', 'data': 'Ledhu thechukunta', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'Q3DOFR', 'data': 'no', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'DKQART', 'data': ""I don't have two wheeler license but own two wheeler so can I applied this Jo"", 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '1AHU6C', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '55PALT', 'data': 'Ok i think my mistake why am chat you\n \n And finally am block\n \n Sai ram!!!!', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'VSW20M', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'PKBY3B', 'data': 'Where is interview', 'message_order': 5, 'comments': ['']}",location
+"{'id': 'PRBW12', 'data': ""We don't have a interest"", 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'LXFFKW', 'data': 'Mere paas bike nhi h', 'message_order': 1, 'comments': ['']}",location
+"{'id': '789O66', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'NN20MV', 'data': 'Get lost', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': 'GAVZIO', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",location
+"{'id': '2FCZJT', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'STXBKL', 'data': 'I vl block u', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'CN4ALS', 'data': 'Edhi akada job', 'message_order': 1, 'comments': ['']}",location
+"{'id': 'WWP5NX', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': '6M68U4', 'data': 'No', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'VQ3XAW', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'MFBMXI', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'SWD7H6', 'data': 'I have LR only', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'W574OL', 'data': 'I have bike licence', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'WWAZ0A', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'V44CQA', 'data': 'Kkk', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '9QU67R', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': '8GQCUO', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'HD0AEX', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'O5GI27', 'data': 'Hii', 'message_order': 4, 'comments': ['']}",location
+"{'id': 'RKNZ3H', 'data': ""But I don't have bike"", 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'YBQMJ8', 'data': ""Sorry I don't know to drive a 2wheeler bike .."", 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'L6107W', 'data': 'Hiii', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'NUG29C', 'data': 'Ohhkk', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '5RXLUS', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'TLAAG3', 'data': 'Sir I want to know my working location', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'S6LU99', 'data': 'Hi....', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'HQ8MBP', 'data': 'L L', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'KW6TU8', 'data': 'Learning I hv', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '3UNBKR', 'data': 'Kidar He', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'AF0026', 'data': 'Hey', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': '5PAXTK', 'data': ""I don't have Pan card"", 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'Z1PURC', 'data': 'Get lost', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': '11JMAE', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'PRNLV3', 'data': 'll chapu', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '9KLI2C', 'data': 'Address', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'DSRBFA', 'data': 'Ya i have', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'MPUXII', 'data': ""When i don't know city name, how can I tell you"", 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '4UYHKN', 'data': 'Hi..', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '5WZC8I', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'V8Z6R7', 'data': '😉✌', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '06TGMR', 'data': 'Ok ji', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '57Q8N5', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '1A56BK', 'data': 'Thanku lm not interested', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'CGPPNL', 'data': 'Hindi nai aate', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '8SU2IG', 'data': 'Good morning', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '7YIGLX', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'PAT29H', 'data': 'Sir mere pass gadi no', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'OQ8H48', 'data': 'Ok sure', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'Y56TGE', 'data': 'Gm', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'KT9HUH', 'data': 'Not', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '5DRTUN', 'data': 'Learning licence I have', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': '16AD4P', 'data': 'Hi sir', 'message_order': 3, 'comments': ['']}",dontMeetRequirements
+"{'id': '06UMAP', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'M5RH64', 'data': 'Kaha pe job krna ho ga', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'RLH3RP', 'data': 'Plz wait busy now n were location', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'JD7D7M', 'data': 'No', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'PPXBDG', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",notInterested
+"{'id': 'OJLTDJ', 'data': 'Hello sir', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'NRYRV5', 'data': 'Ohhh ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'ICPI4Y', 'data': ""But I don't have bike"", 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': '3D57MX', 'data': 'Okey', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': '00MSOG', 'data': 'Why you sent me message', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'HCJXXQ', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'GYYOUQ', 'data': 'Hai', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'ZCTDA3', 'data': 'Hy u', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'M1W3V5', 'data': 'I have no bibek', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'FFQHWZ', 'data': 'Job location', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': 'LBUP60', 'data': 'Hieeee sir', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': 'TBYK82', 'data': 'Hy', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'U7EW7C', 'data': 'Where are you office', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'W5G3II', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'JSQQZR', 'data': 'Hai', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'XDJ0DX', 'data': 'Hiiii', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '07RUKJ', 'data': 'Hi', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': 'Z2RI0W', 'data': 'No', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'YLJM8G', 'data': 'hlo', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '5VYPVB', 'data': 'LL', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '32PTF6', 'data': 'But i dnt know reading', 'message_order': 1, 'comments': ['']}",greeting
+"{'id': '9MV3P9', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'NKJMIR', 'data': 'Hello', 'message_order': 0, 'comments': ['']}",greeting
+"{'id': '87UJ3N', 'data': 'but sir i do not have a bikr', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'NWSCIO', 'data': 'Hiiii', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': '4PAWWE', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'UDK5TF', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",location
+"{'id': '1FVJCJ', 'data': 'Location', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': '0N6GQ7', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': 'C6HK82', 'data': 'achha', 'message_order': 0, 'comments': ['']}",notInterested
+"{'id': 'P994PP', 'data': 'Vahan delivery', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'Q6IZP3', 'data': 'Time nai hy mere pas', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'H90U8P', 'data': 'Hiii', 'message_order': 5, 'comments': ['']}",whoAreYou
+"{'id': '4RZ1T5', 'data': 'Hii', 'message_order': 3, 'comments': ['']}",whoAreYou
+"{'id': '9URV56', 'data': 'No', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'UC5H2C', 'data': 'Then sry', 'message_order': 0, 'comments': ['']}",location
+"{'id': 'JEY6YO', 'data': 'Thank you sir', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': 'ZDTX96', 'data': 'but...which city sir..actually i m belongs to nagpur', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': '9YO09P', 'data': 'Sir I have no two wheeler', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'IHH6ZH', 'data': 'I blocked u', 'message_order': 0, 'comments': ['']}",dontMeetRequirements
+"{'id': 'ODYQ39', 'data': 'Ok', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'F3US1P', 'data': 'How are you', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': '3D7KO2', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting
+"{'id': 'KU43IC', 'data': 'Thanks for this', 'message_order': 4, 'comments': ['']}",notInterested
+"{'id': 'GLEI60', 'data': 'Hi', 'message_order': 2, 'comments': ['']}",dontMeetRequirements
+"{'id': '90YYUD', 'data': 'Hay', 'message_order': 3, 'comments': ['']}",greeting
+"{'id': 'FQGNAH', 'data': 'Job whare', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': '9HROF9', 'data': ""But I don't have license"", 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'SC4Y2D', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'NRHKDQ', 'data': 'hi', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'MCOUCX', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",whoAreYou
+"{'id': 'U0Z4ZF', 'data': 'Kk', 'message_order': 1, 'comments': ['']}",notInterested
+"{'id': 'CK9IU9', 'data': 'Okay', 'message_order': 4, 'comments': ['']}",whoAreYou
+"{'id': 'MDY1C7', 'data': 'Okay', 'message_order': 0, 'comments': ['']}",whoAreYou
+"{'id': 'N7Z662', 'data': 'Where work', 'message_order': 2, 'comments': ['']}",greeting
+"{'id': 'O6TX8S', 'data': 'Mere paas khud ka nai hai', 'message_order': 2, 'comments': ['']}",notInterested
+"{'id': '2RG46Y', 'data': 'OK by', 'message_order': 4, 'comments': ['']}",dontMeetRequirements
+"{'id': 'HCTZ3F', 'data': 'LL', 'message_order': 5, 'comments': ['']}",notInterested
+"{'id': 'ITXTOW', 'data': 'Ok sir', 'message_order': 2, 'comments': ['']}",whoAreYou
+"{'id': 'IOKVYD', 'data': 'Hello', 'message_order': 4, 'comments': ['']}",greeting
+"{'id': 'UGBYIK', 'data': 'No bike', 'message_order': 0, 'comments': ['']}",greeting
