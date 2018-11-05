@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\sathya-6874\\models\\current\\intentClassifier\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\sathya-6874\\models\\current\\intentClassifier\\intent_classifier_tensorflow_embedding.ckpt"

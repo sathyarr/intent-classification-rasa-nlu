@@ -1,0 +1,7969 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Location"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "On thanks"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Sir I dnt have two wheeler"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": " Good mrng"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gm"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Yes but no bikes sorry"
+      },
+      {
+        "intent": "location",
+        "text": "Where it is"
+      },
+      {
+        "intent": "greeting",
+        "text": "Job placement company"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "were"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you"
+      },
+      {
+        "intent": "location",
+        "text": "Where is the location?"
+      },
+      {
+        "intent": "greeting",
+        "text": "Nahi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Marathi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "location",
+        "text": "Iska location kya hoga"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Poda ..."
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ldhu"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "I am not interested"
+      },
+      {
+        "intent": "location",
+        "text": "How r u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi.."
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiio"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok thanks "
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Learning licence hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Bhaiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hey"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Msg kyu karte hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi .."
+      },
+      {
+        "intent": "notInterested",
+        "text": "How are u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have learning licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": " GD Morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "k"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Don't msg"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have learning license"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Lerner license only"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK bye dear t c good night"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which location"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "ohhhh sry"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kidar hai job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hallo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Area"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I have LR licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello Sir / Madam, sorry but I dont have bike "
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "No"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "No one"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Hy"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai I'm kishor"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "I applied"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Y"
+      },
+      {
+        "intent": "location",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "Where should I come"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ledu"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I am interested in that job but no bike"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Not interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Already I have given dis answer before 3days back"
+      },
+      {
+        "intent": "greeting",
+        "text": "How r u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Haa hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "inserted no"
+      },
+      {
+        "intent": "greeting",
+        "text": "Helo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Two wheeler aahe"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kkkkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Location"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good Morning"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Driving licence process"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Location kya hai sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Haii"
+      },
+      {
+        "intent": "greeting",
+        "text": "hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ll"
+      },
+      {
+        "intent": "greeting",
+        "text": "No"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Swiggy nai karna he merko"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "G sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kuthe aahe vacancey"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sry sir now I'm not interested on job"
+      },
+      {
+        "intent": "greeting",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have LLR"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "In which area"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Location kon si rhe gi sir g"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "location",
+        "text": "Where office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Helo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have my learning license... Is it OK for job"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Bt bike nhi aata"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "But I don't have two wheeler"
+      },
+      {
+        "intent": "location",
+        "text": "Yas"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gm"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Dear Sir or Mam"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Llr"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Hey mam"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry I didn't have original licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I had already joined and left the job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Oky"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Telugu Ni aati"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Get lost"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Near banashankari"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I dnt have bike.\n Will u provide??"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tq"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ohhh k"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Job location"
+      },
+      {
+        "intent": "location",
+        "text": "Kahapar hai job"
+      },
+      {
+        "intent": "greeting",
+        "text": "No we"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hlw"
+      },
+      {
+        "intent": "notInterested",
+        "text": "But i don't have a bike so have can i do this type of jobs"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai good morning"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "LLR license"
+      },
+      {
+        "intent": "greeting",
+        "text": "K k"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ekada job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Driving license nai hai but gaadi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": " Gdmng"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sry I dnt have a bike to do this job.. Thank you"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kkk"
+      },
+      {
+        "intent": "notInterested",
+        "text": "sir bike nahi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you"
+      },
+      {
+        "intent": "notInterested",
+        "text": "What location"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have a leaning license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Bhai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okau"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Helloooo"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Good night"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I want to my nearest Jalahalli Cross address"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Good night"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi unnati thx for contacting me .."
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok ok"
+      },
+      {
+        "intent": "location",
+        "text": "Where s the office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "I applied for license but not yet received"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "how r u"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Kk"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "you dont have swiggy offic in thane"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kahase vai"
+      },
+      {
+        "intent": "location",
+        "text": "Where I have to come for interview"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hlo vahna"
+      },
+      {
+        "intent": "greeting",
+        "text": "bike ledhu"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Suno bhai Meri age nahi hai 17th hya"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "notInterested",
+        "text": "In which location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have need job,but I am not apply fees"
+      },
+      {
+        "intent": "notInterested",
+        "text": "No licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Bhi na bike hai na licence hai"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I not interests"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Sir..which area?"
+      },
+      {
+        "intent": "greeting",
+        "text": "No bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "location",
+        "text": "Why I should deposit???"
+      },
+      {
+        "intent": "greeting",
+        "text": "But doesn't have driving license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello brother"
+      },
+      {
+        "intent": "greeting",
+        "text": "hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "K........tq so much sar or mam by"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okn"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii sit"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I dnt have bike but this job intrested"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Why should i tell you"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "i have learning license"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry i m unable to pay 500 rupees"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "unexpectedly I applied for this job"
+      },
+      {
+        "intent": "location",
+        "text": "don't send any text msg"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Near vijaynagar?"
+      },
+      {
+        "intent": "location",
+        "text": "Ur location"
+      },
+      {
+        "intent": "greeting",
+        "text": "hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "But job location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have learning license"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Which city"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "notInterested",
+        "text": "You head office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "Whr is your office pls"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gud mrng"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok not interested"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have lost my license so I'm making new"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK.ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okey"
+      },
+      {
+        "intent": "location",
+        "text": "Which location"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Lr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gud morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which area"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "But mere paas bike nhi hai"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Llr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello job location akkada"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Bhakk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I don't have vehicle sir"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Location were"
+      },
+      {
+        "intent": "location",
+        "text": "Wher"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Dl"
+      },
+      {
+        "intent": "location",
+        "text": "Snd the location"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Two wheeler ahe pan license nahi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello me Peru"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tq"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Interview place"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok thanks sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Job kaha pr h sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Address"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gm"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Helo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have no bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have no two wheeler"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "yes but where are from"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello how are you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Mere pass bike nhi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi ra"
+      },
+      {
+        "intent": "greeting",
+        "text": " Good morning everyone........."
+      },
+      {
+        "intent": "greeting",
+        "text": " Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Better i WL BLK u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "notInterested",
+        "text": "sir bike nahi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Nahi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "location",
+        "text": "Where"
+      },
+      {
+        "intent": "greeting",
+        "text": "I don't have vehicles and license also"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gd mrng"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Am from thiruvallur where is job Location"
+      },
+      {
+        "intent": "location",
+        "text": "Where is kasturinagar ?"
+      },
+      {
+        "intent": "location",
+        "text": "Kidar hey"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Give address"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tq"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "learning licence"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Dombivli mein hai kya??"
+      },
+      {
+        "intent": "greeting",
+        "text": "Apply chesanu"
+      },
+      {
+        "intent": "greeting",
+        "text": "Bat were"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good Morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Bhai apka location kidar hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "IAM not interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Were is the place"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I don't have bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK sir"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I dot have licence"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Learning license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Na Ku bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "location",
+        "text": "Sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Nhi karna h"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "location",
+        "text": "Bike nhi hai"
+      },
+      {
+        "intent": "notInterested",
+        "text": "But I'm below 18"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Mere paas filhaal driving licence ka paavti hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Good night"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ol"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hlo"
+      },
+      {
+        "intent": "location",
+        "text": "Where!?"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Gn"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "location",
+        "text": "Whr in job"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Kk thank you"
+      },
+      {
+        "intent": "location",
+        "text": "Hold on"
+      },
+      {
+        "intent": "location",
+        "text": "Where is office address"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Which area"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "location",
+        "text": "Where"
+      },
+      {
+        "intent": "greeting",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "inshallah i we'll come"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Bike Nahi hai."
+      },
+      {
+        "intent": "greeting",
+        "text": "I m under 18"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Not interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Location"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Kk lev it"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "location",
+        "text": "Where..?"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Assalatu khairu minanum"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Learning"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Yes but i am no money"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Sir can u say me were tht office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ledhuu"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Mere paas bike nhi hai"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry but muze bike chalana nhi aata"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "location",
+        "text": "Where kasthuri nagar come"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ledhu,but teeeskuntanu"
+      },
+      {
+        "intent": "greeting",
+        "text": "Halo"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Im present busy"
+      },
+      {
+        "intent": "location",
+        "text": "Llr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "notInterested",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir I need job in near by rajajinagar, is there any delivery boy jobs"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "Where is the location"
+      },
+      {
+        "intent": "location",
+        "text": "Wher"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have LL"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks for the information"
+      },
+      {
+        "intent": "greeting",
+        "text": "Bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi yari"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Btw for which location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Licnc he but bike nahi"
+      },
+      {
+        "intent": "location",
+        "text": "Noh"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "assalamualaikum"
+      },
+      {
+        "intent": "greeting",
+        "text": "Office address"
+      },
+      {
+        "intent": "greeting",
+        "text": "I don't hv bike and license"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok thnx bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "4 welar lagana hy"
+      },
+      {
+        "intent": "greeting",
+        "text": "thank u computer"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have my bicycle"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ledhu"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "But left ago 3months"
+      },
+      {
+        "intent": "greeting",
+        "text": "I need clarity r else they will keep on calling and disturb"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gd night to all"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Chal be"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "I dnt want in swiggy"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Sir kamm kis state me ha"
+      },
+      {
+        "intent": "greeting",
+        "text": "okkk"
+      },
+      {
+        "intent": "location",
+        "text": "No bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Haii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Licence hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which area and when"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": " Good morning have a nice day "
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir job location kaha hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which is branch"
+      },
+      {
+        "intent": "greeting",
+        "text": "learing i hve"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Which place sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Bhai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Drop me the address"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "location",
+        "text": "Whr is your office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Assalaamu alaikum"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kaha pr h"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "location",
+        "text": "Where"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Not Sure"
+      },
+      {
+        "intent": "greeting",
+        "text": "Area"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sry i dnt have bike"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry l am not good ride vehicle."
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "k"
+      },
+      {
+        "intent": "greeting",
+        "text": "no"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I don't want job"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Don't send this type of messages to me"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello i have bike license but i Sold my bike can you arrange bike for me"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Don't have interest"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which pleas"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai...sir"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "How are you"
+      },
+      {
+        "intent": "greeting",
+        "text": "No money to pay"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Vasai Virar mein hai swiggy delivery boy vacancy"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "i dont have bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "LLR I have"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "But I don't have driving licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "I don't have a bike"
+      },
+      {
+        "intent": "location",
+        "text": "Where"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Which area we will give"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have ll"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Give office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Mere pass bike nahi"
+      },
+      {
+        "intent": "location",
+        "text": "Where is the office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kon banega core pati ka contest hai kya"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have already done with this job"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Address"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Nothing"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Good afternoon"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "sry"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I lose my DL"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "2apply"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gm Chill climate "
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ye kis jegha h"
+      },
+      {
+        "intent": "greeting",
+        "text": "Salam where it's job"
+      },
+      {
+        "intent": "greeting",
+        "text": "How are you"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK I understand"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "sorry"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Bike ledhu"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you Unnati ..\n Not now, may be later"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai sir"
+      },
+      {
+        "intent": "location",
+        "text": "Where will be tge work"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okya"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Which place"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "Hyy"
+      },
+      {
+        "intent": "greeting",
+        "text": "For which place you recruitment"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks for your concern."
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Please pura address d"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "O sorry no2"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks..."
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I dnt have bike and dl i knw ridng bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Heyyyy"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Oj"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have no bike .ie my problem."
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry not interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "voke"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good m"
+      },
+      {
+        "intent": "greeting",
+        "text": "I want online offline system other wise no chance then will be not interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gm"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks for your concern MR. Varun."
+      },
+      {
+        "intent": "location",
+        "text": "Where"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "brother I don't hav bike and DL also ..."
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No thanks"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "You're making me angry seriously"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gm"
+      },
+      {
+        "intent": "greeting",
+        "text": "Would u provide twowheller"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Can you tell me the place of Office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hallo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Oki bro"
+      },
+      {
+        "intent": "location",
+        "text": "Yes but i dont have license but i own a vehicle"
+      },
+      {
+        "intent": "greeting",
+        "text": "I got job sir dnt txt me sry"
+      },
+      {
+        "intent": "greeting",
+        "text": "Banane diya hi ...mere pass tha ...gum ho gaya hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Learning license available"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Bike nhi hu ga tu chil a gaa kya"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Send me u r location.. i'll come there"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "Where?"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Land mark?"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Who are you to message me.Dont message me get lost first"
+      },
+      {
+        "intent": "notInterested",
+        "text": "LLr"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "No say"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Lekin mere pass draving lision nahi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which area bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "your location of branch"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "greeting",
+        "text": "Bye"
+      },
+      {
+        "intent": "greeting",
+        "text": "hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kk"
+      },
+      {
+        "intent": "location",
+        "text": "near by loction"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "gn"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kkkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Mere pass paise nhi"
+      },
+      {
+        "intent": "location",
+        "text": "Sir I had already worked here..\n I don't need food delivery orders"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "location",
+        "text": "Where"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "M not interested for delivery jobs! Thank you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ya\n But i don't have license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which location"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I am not ready to deposit money"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Get lost"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Just llr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I don't have bike insurance is it kk"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Konsi jagah"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "No bike"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry I dont have bike . Thanks for u information"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "location",
+        "text": "Where location"
+      },
+      {
+        "intent": "location",
+        "text": "Where is it"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Address 0lz"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK plz send me the above address"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kiddar"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Sir i have no bike"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Were"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "You have opening in which city"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "But what will be the job location"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Bike ledhu"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Adras"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Driving license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have ll"
+      },
+      {
+        "intent": "greeting",
+        "text": "Get lost"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kaha par hai job sar"
+      },
+      {
+        "intent": "location",
+        "text": "Learning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "bhai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Right now I don't have licence and bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ledhu"
+      },
+      {
+        "intent": "location",
+        "text": "Where"
+      },
+      {
+        "intent": "location",
+        "text": "I dnt have bike right now when I ll get it i ll cum to you guys"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Under process"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kahapar hai job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks for your services\n I'm not interested for this job"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Plzz stop it"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry nothing driver license"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you for your offer"
+      },
+      {
+        "intent": "location",
+        "text": "Where are?"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "hy"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Gud nyt"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi2"
+      },
+      {
+        "intent": "greeting",
+        "text": "Can u share the address 1st"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks for u'r information"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hy"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sur good afternoon.."
+      },
+      {
+        "intent": "greeting",
+        "text": "Okk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Swiggy don't need"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Nice"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okk"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Yeah"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ohk"
+      },
+      {
+        "intent": "greeting",
+        "text": "I will refer one num so send this msg to him"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Dont send fake"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tq"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thika muchkondu stop madu aste"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi how are you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks for ur support"
+      },
+      {
+        "intent": "notInterested",
+        "text": "1yes"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello vahan"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "But don't vehicle in my castady"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Haiii"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kormangala"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I'm recently applied I have LR license."
+      },
+      {
+        "intent": "greeting",
+        "text": "Don't msg"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Gn"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okk"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "location",
+        "text": "But DL HAS GIVEN FOR RENEWAL"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which place"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gn"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Only driving license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii si"
+      },
+      {
+        "intent": "greeting",
+        "text": "Bike nhi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "No two viller iam very sorry"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Nik siggu leda ra okasare chepthe"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Mere bhai mujhe job nhi chahiye"
+      },
+      {
+        "intent": "greeting",
+        "text": "How are you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Helloo"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "nonono"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Location please"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry???"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gn"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "cheatinh"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hhi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sry"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Bike ledhu"
+      },
+      {
+        "intent": "greeting",
+        "text": "Nonsense"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Den go way"
+      },
+      {
+        "intent": "greeting",
+        "text": "I don't have Lisence.. Can u manage to join as delivary boy"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Which place"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ohk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Acha"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Good night...."
+      },
+      {
+        "intent": "greeting",
+        "text": "Nothing"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "2not now I will text u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "I didn't DL I have LL"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok k"
+      },
+      {
+        "intent": "notInterested",
+        "text": "How r you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Wer location job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Can I now location of job"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I don't have bike or license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Or kaise hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "After 10 days am getting my LL"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": " Good morning happy Friday "
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kkk"
+      },
+      {
+        "intent": "location",
+        "text": "Lr undi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "But I don't have buke"
+      },
+      {
+        "intent": "greeting",
+        "text": "Oko"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "No"
+      },
+      {
+        "intent": "notInterested",
+        "text": "But i have llr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Naku bike ledu sar"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Police complain karti hu ruk abhi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hlo GM g"
+      },
+      {
+        "intent": "greeting",
+        "text": "Don't send a msgs"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "I don't have a licensed"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "location",
+        "text": "Where is ur office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "1but I have an l l r"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Llr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Location kha pr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gm"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "How are you???"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Work location?"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "Work location"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I nt have dl"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Gn"
+      },
+      {
+        "intent": "greeting",
+        "text": "okk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "LL is there"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks foe ur information"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hallo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "sir. ok. but nodriveng. lince. no. pancaed"
+      },
+      {
+        "intent": "greeting",
+        "text": "okk"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Plz didnot send me message plz stop I am not interested"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Who"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thnaks bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tanq"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Llr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "If you are computer so I block you"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "which location in job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry sir naku bike radu"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "how r u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "License ny he"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning have a nice day"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiiii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "But I have driving licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have learning license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Learning license"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry I am not interested now."
+      },
+      {
+        "intent": "location",
+        "text": "where I should come"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "I don't have license"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ya but. I have LLR"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Im not interested in swiggy"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have learning license only"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Na location change chesaru"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sollu pa"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you sir but I don't have a bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tq"
+      },
+      {
+        "intent": "greeting",
+        "text": "License nahi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "I want job but I have LR liasen"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I do not have a bike license."
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I don't have a bike not even driving licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "location",
+        "text": "Yes sir.. I didn't D L n bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Job location wr r u"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okh"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Stop messaging"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Great....Good night"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "He'll sar"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Which location are their"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Learners licence is available"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Bro not interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry sir I don't have bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir..\n But I did not have pancard and bank account"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kelasa Elva"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ledu"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning....."
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "notInterested",
+        "text": "no"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Oky"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Abhi nhi phir kbhi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tell me Job location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Good night"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okey sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kaha he job"
+      },
+      {
+        "intent": "greeting",
+        "text": "hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Location??"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Mai bike nai chalata hu"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Hey will u just stop this"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "hlo"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I have no vehicle"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "For this"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Gn"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Learning license"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "No need thank you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "Where is kasturi nager"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Job location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks for the info"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I don't have bike and Dl Bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Stopped"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kindly don text to this number"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hl"
+      },
+      {
+        "intent": "greeting",
+        "text": "Mere pass bike or license nahi hr"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kindly don text to this number"
+      },
+      {
+        "intent": "greeting",
+        "text": "I dont want to delivery jobs"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Good night"
+      },
+      {
+        "intent": "notInterested",
+        "text": "But I can't pay Rs.500"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have no bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kaunsi si jagah job Milega"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Baik nhi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I get licensee in 1month"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have no bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Chal nikl"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Location vasai hai"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Hey hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Present bike ledu tesukovali"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi unnati"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "location",
+        "text": "Which area sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Acha ji"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "I am going to block you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Sir I don't need delivery jobs\n That's it"
+      },
+      {
+        "intent": "location",
+        "text": "Gn"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Am not interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "location",
+        "text": "Where job"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "But I don't have driving licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Address kaha hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Accha"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hiiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Driving licence nahi hey"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sir I don't have a bike but rest all documents i have it sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Oka"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I have learner license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you ..."
+      },
+      {
+        "intent": "notInterested",
+        "text": "nko"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have no bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "I will no bike & dl"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No . I say near r t nagar"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I no redy"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "Job kha pila gi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "k"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Bike nahi hai"
+      },
+      {
+        "intent": "location",
+        "text": "Where is u office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Area?"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good night"
+      },
+      {
+        "intent": "greeting",
+        "text": "I dont have a pancard even"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "We accept llr license"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Sir but mere pass bike aur licence nahi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hie"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ya s but I have only LL no DL"
+      },
+      {
+        "intent": "location",
+        "text": "Where is kasturi nagar"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I don't have bike and license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Don't send am not interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Oki"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I dn't have a DL"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Fine"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir i don't know driving"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "job where are you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Get lost"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "I don't have driving licence"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Iam not interested in delivery job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "location",
+        "text": "where is the job location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ohk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Bt mere pas vehicle nh hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "K, fine"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "where are you from in job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have no bike"
+      },
+      {
+        "intent": "notInterested",
+        "text": "bro Wr I should come"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you Sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Morning"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Soory i have no driving Lance"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Yes im interested but don't have a two wheeler sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Oky"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I hv LL"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok thaynku gd night jab par"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have LL"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Nahi dena mujhe"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "How r u"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "In which place"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Job address location Mumbai pune"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK. Tq"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kidar apko milna hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Merai pass bike nayi hai"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Not both"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "How r u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Wokey"
+      },
+      {
+        "intent": "greeting",
+        "text": "Wish"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kk"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sry"
+      },
+      {
+        "intent": "greeting",
+        "text": "sir u r place Bangalore"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Yeah"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Kkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Lening license"
+      },
+      {
+        "intent": "greeting",
+        "text": "GOOD MORNING"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hey"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Marathi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okk"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Delivering location Chamrajpet Hanumantha Nagar Srinagar"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Ur location"
+      },
+      {
+        "intent": "location",
+        "text": "Where it is"
+      },
+      {
+        "intent": "greeting",
+        "text": "I dont have bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Learning is dhare"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I can not write"
+      },
+      {
+        "intent": "location",
+        "text": "Ohk"
+      },
+      {
+        "intent": "greeting",
+        "text": "LL"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have a no bike sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Yas"
+      },
+      {
+        "intent": "location",
+        "text": "Where the place"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Bike nhi hai mere pass"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "1yes but present Learning Licence I am having"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii innappndra"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "But i won't have dl"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Mere pass bike nahi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Nahi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I dnt hav a bike"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Which place"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi3"
+      },
+      {
+        "intent": "greeting",
+        "text": "Jai Shree Ram"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi hi hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Were it is"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "But I am student for F.Y.B.com \n I have no licence"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Stop"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "LLR"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ook"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have only LLR license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok sure"
+      },
+      {
+        "intent": "location",
+        "text": "Ha"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning sir"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "sry i dnt hav an bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Acha"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have LL"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Both are too far I can't"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Wear your office bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "LL is ther"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kaha par has job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi r"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have LLR next week lo licence vasthadi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Morning"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Which location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ur ofice adress"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have no bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "thankuuu"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I dont have licience"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No thanks.."
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you sir but I don't have a bike."
+      },
+      {
+        "intent": "location",
+        "text": "Where is my location"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Were"
+      },
+      {
+        "intent": "notInterested",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Jus I have LLR"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Interview kaha deni hogi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "But sir mere pass baik nahi hai. Kya aap meri helf kar sakate hai..."
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "location",
+        "text": "Which place"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "BYKE is next month cmng"
+      },
+      {
+        "intent": "location",
+        "text": "Where is your office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Learning licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning sir /madam"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "How r u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Par mere pass paise nahi he"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Nahi he"
+      },
+      {
+        "intent": "greeting",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ur location"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "location",
+        "text": "Where job??"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": " Photo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi I m not looking for"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": " Its in banagaluru ,right ?"
+      },
+      {
+        "intent": "location",
+        "text": "Where is the office"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "sry mam in father's business"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I dnt think so"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Not interested thank you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kahhpe hy job amrvati"
+      },
+      {
+        "intent": "location",
+        "text": "Wr is it ?"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Learning license"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Sir I am intrasted. Bat I have not a baik. License is avalebal"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok."
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I'm back we're is your address plz tell me"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have ll"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okkky"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Gd evng.."
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Were is the place"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "This is for where sir..."
+      },
+      {
+        "intent": "notInterested",
+        "text": "I want to work bit no bike"
+      },
+      {
+        "intent": "notInterested",
+        "text": "muze bike chalani nHi ati"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Prasent learning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi.. thanks for your message"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "May I know the location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Jai raam ki"
+      },
+      {
+        "intent": "greeting",
+        "text": "Aur Area konsa"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Send me Kurla office address"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Mere pass bike nhi Hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Rajajinagar"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Actually having learners licence...need to apply for a drive test"
+      },
+      {
+        "intent": "greeting",
+        "text": "hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "I know your a software"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Were am doing job?"
+      },
+      {
+        "intent": "greeting",
+        "text": "k"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Can't you understand what I said"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "greeting",
+        "text": "hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Llr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "no other office"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Give me address"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Gn"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Don't message it"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Iam not interested in swiggy"
+      },
+      {
+        "intent": "greeting",
+        "text": "But my license is yet to come.. It's gone Na work"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hlo"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Nahi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tq for your response"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have learning licence l vill get my license in 15 days"
+      },
+      {
+        "intent": "greeting",
+        "text": "ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "I am not Interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Location"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Ha okl"
+      },
+      {
+        "intent": "greeting",
+        "text": "If we don't have driving licence"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Anna deposit Mado astu amount illa dayavittu nam bitbdi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Job konsa state may hey"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hru"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No le lo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thnx to inform me"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi thank you for your sms"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which area?"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Work location?"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Location sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok thank you"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi gm"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Mere pass bike nahi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "How are you"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Job location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you for"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have no bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi..Is there any vacancy in dilsuknagar..Part time"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "How are you?"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Learning"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Your office where in India"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Learner licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir mai delivery ka kaam nhi kar sakta"
+      },
+      {
+        "intent": "location",
+        "text": "Which is nearest to yelahanka"
+      },
+      {
+        "intent": "greeting",
+        "text": "But no bike no licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Receipt hai learning"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry I Dnt have"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Meanae thoo naa lagta madam"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I dont have lisence i have only kearning license"
+      },
+      {
+        "intent": "greeting",
+        "text": ", learning licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "location",
+        "text": "Applications fee nai bhr skte"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Helo"
+      },
+      {
+        "intent": "notInterested",
+        "text": "But mere pass bike nahi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okk mam"
+      },
+      {
+        "intent": "greeting",
+        "text": "Haii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir/madem"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tanks"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi friend"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry me biji u"
+      },
+      {
+        "intent": "notInterested",
+        "text": "but I have no bike"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Learning"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Sir"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Naku bike lisense ledhu bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir dl no sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "K  thank u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Please stay 1000 miles away from me ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Shut up"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Don't have bike"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Llr apply"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have two wheeler"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hellooo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "16 yrs old"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "No, it's too far"
+      },
+      {
+        "intent": "greeting",
+        "text": " Good morning and have a blessed day"
+      },
+      {
+        "intent": "location",
+        "text": "Wher is located"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "okkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Bhai"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have licence only"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks Sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Learning license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "nhi chaiya"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "sry i can't come to ur place becoz it is from my place"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ledu"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "location",
+        "text": "Where"
+      },
+      {
+        "intent": "greeting",
+        "text": "Only LL now"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai computer"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Mere pass bike nhi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok good night computer tomorrow Ok bye bye"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir but licence nahi hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Location ekkda"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kis jagah jab milega"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which city?"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry by mistake I type for delivery jobs"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "location",
+        "text": "Where is kasthuri nagar"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Bhai"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kya location h"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ohk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "I wont give u money"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks sir"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Time to batao"
+      },
+      {
+        "intent": "location",
+        "text": "Area"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "K"
+      },
+      {
+        "intent": "greeting",
+        "text": "GD morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I dnt hv bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Were"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kk"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ledu"
+      },
+      {
+        "intent": "notInterested",
+        "text": "LL"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kk"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have lerner licennce alredy apply for D/L soon it ll be dispatch"
+      },
+      {
+        "intent": "greeting",
+        "text": "Location."
+      },
+      {
+        "intent": "notInterested",
+        "text": "Nai kar naa hai"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I dnt have a smart phone i have only learing licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "not interset"
+      },
+      {
+        "intent": "greeting",
+        "text": "Don't send messages"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "No tks"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Were is ur office"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi thanks for considering my cv"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I no message"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Nooo"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Helli"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry bye don't disturb"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "What areas bro"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir and madam"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Sir your mine office were"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which location is the job I will be working"
+      },
+      {
+        "intent": "greeting",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "So why did u msg me"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok sir"
+      },
+      {
+        "intent": "notInterested",
+        "text": "2ella"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Which location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "I need job. I have learning license. I am possible this job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "location",
+        "text": "Not insert"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ledu"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I got a new bike but rc card innu bandilla.."
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ledhu"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Srryy"
+      },
+      {
+        "intent": "greeting",
+        "text": "Aitu iru guru"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ye office kahan h"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ll"
+      },
+      {
+        "intent": "greeting",
+        "text": "which location"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sry"
+      },
+      {
+        "intent": "location",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hey"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Stupid"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir I'm Suchindra"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry no bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Not interested in delivery jobs"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No sorry computer"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "2,4"
+      },
+      {
+        "intent": "greeting",
+        "text": "Helloo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hey"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Hey"
+      },
+      {
+        "intent": "greeting",
+        "text": "But sir me paise nhi pay karunga"
+      },
+      {
+        "intent": "location",
+        "text": "I have learning license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "notInterested",
+        "text": " Good nyt"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Licences. Bhi nahi hai"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Learning"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Location package"
+      },
+      {
+        "intent": "location",
+        "text": "Where is koramangala...."
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have llr"
+      },
+      {
+        "intent": "greeting",
+        "text": "I like to kasturi nagar but on saturday I'm on amazon job"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have no bike"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kha ana hoga"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Learning licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "K but my work location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Good night"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi Unnati"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you for your valuable time sir"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Jayanagar"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Which area"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok ok thn"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Driveing license leadu"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "But I had no bike sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "abhi to nahi"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "did job isz in bnglr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks for informing me"
+      },
+      {
+        "intent": "greeting",
+        "text": "helo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gud mrng"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Nonsense"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ledu maa Brother di Undi"
+      },
+      {
+        "intent": "greeting",
+        "text": "I have no bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok tell me"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "So"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tqq sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Which airea located job"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Dont have vehicle"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "hloo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Tq"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thnx"
+      },
+      {
+        "intent": "location",
+        "text": "I have driving licences llr"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Ledhu thechukunta"
+      },
+      {
+        "intent": "greeting",
+        "text": "no"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I don't have two wheeler license but own two wheeler so can I applied this Jo"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok i think my mistake why am chat you\n \n And finally am block\n \n Sai ram!!!!"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "location",
+        "text": "Where is interview"
+      },
+      {
+        "intent": "greeting",
+        "text": "We don't have a interest"
+      },
+      {
+        "intent": "location",
+        "text": "Mere paas bike nhi h"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Get lost"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "I vl block u"
+      },
+      {
+        "intent": "location",
+        "text": "Edhi akada job"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have LR only"
+      },
+      {
+        "intent": "notInterested",
+        "text": "I have bike licence"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Kkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "But I don't have bike"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Sorry I don't know to drive a 2wheeler bike .."
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ohhkk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir I want to know my working location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi...."
+      },
+      {
+        "intent": "notInterested",
+        "text": "L L"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Learning I hv"
+      },
+      {
+        "intent": "location",
+        "text": "Kidar He"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Hey"
+      },
+      {
+        "intent": "greeting",
+        "text": "I don't have Pan card"
+      },
+      {
+        "intent": "greeting",
+        "text": "Get lost"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "ll chapu"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Address"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Ya i have"
+      },
+      {
+        "intent": "location",
+        "text": "When i don't know city name, how can I tell you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi.."
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok ji"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanku lm not interested"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hindi nai aate"
+      },
+      {
+        "intent": "greeting",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Sir mere pass gadi no"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok sure"
+      },
+      {
+        "intent": "greeting",
+        "text": "Gm"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Not"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Learning licence I have"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kaha pe job krna ho ga"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "Plz wait busy now n were location"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ohhh ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "But I don't have bike"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okey"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Why you sent me message"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Hy u"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "I have no bibek"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Job location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hieeee sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hy"
+      },
+      {
+        "intent": "location",
+        "text": "Where are you office"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "hlo"
+      },
+      {
+        "intent": "greeting",
+        "text": "LL"
+      },
+      {
+        "intent": "greeting",
+        "text": "But i dnt know reading"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "notInterested",
+        "text": "but sir i do not have a bikr"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Location"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "notInterested",
+        "text": "achha"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Vahan delivery"
+      },
+      {
+        "intent": "greeting",
+        "text": "Time nai hy mere pas"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hiii"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hii"
+      },
+      {
+        "intent": "notInterested",
+        "text": "No"
+      },
+      {
+        "intent": "greeting",
+        "text": "Then sry"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thank you sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "but...which city sir..actually i m belongs to nagpur"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Sir I have no two wheeler"
+      },
+      {
+        "intent": "dontMeetRequirements",
+        "text": "I blocked u"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "How are you"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "greeting",
+        "text": "Thanks for this"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hay"
+      },
+      {
+        "intent": "whoAreYou",
+        "text": "Job whare"
+      },
+      {
+        "intent": "notInterested",
+        "text": "But I don't have license"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "hi"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Kk"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "greeting",
+        "text": "Okay"
+      },
+      {
+        "intent": "location",
+        "text": "Where work"
+      },
+      {
+        "intent": "notInterested",
+        "text": "Mere paas khud ka nai hai"
+      },
+      {
+        "intent": "greeting",
+        "text": "OK by"
+      },
+      {
+        "intent": "notInterested",
+        "text": "LL"
+      },
+      {
+        "intent": "greeting",
+        "text": "Ok sir"
+      },
+      {
+        "intent": "greeting",
+        "text": "Hello"
+      },
+      {
+        "intent": "greeting",
+        "text": "No bike"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
