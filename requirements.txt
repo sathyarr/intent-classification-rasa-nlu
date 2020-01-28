@@ -45,7 +45,7 @@ six==1.11.0
 sklearn==0.0
 sklearn-crfsuite==0.3.6
 tabulate==0.8.2
-tensorflow==1.0.0
+tensorflow==1.15.2
 tqdm==4.28.1
 Twisted==18.9.0
 typing==3.6.6
