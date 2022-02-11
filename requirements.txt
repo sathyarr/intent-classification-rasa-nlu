@@ -47,7 +47,7 @@ sklearn-crfsuite==0.3.6
 tabulate==0.8.2
 tensorflow==1.0.0
 tqdm==4.28.1
-Twisted==18.9.0
+Twisted==22.1.0
 typing==3.6.6
 urllib3==1.24.1
 Werkzeug==0.14.1
